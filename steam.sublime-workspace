@@ -1,0 +1,3249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pchVer",
+				"pchVersionString"
+			],
+			[
+				"eServ",
+				"eServerMode"
+			],
+			[
+				"compil",
+				"compiler_create_workspace"
+			],
+			[
+				"toch",
+				"torch"
+			],
+			[
+				"poof",
+				"single_poof"
+			],
+			[
+				"hovere",
+				"hovered_en"
+			],
+			[
+				"hot_",
+				"hot_slot"
+			],
+			[
+				"remove",
+				"remove_props"
+			],
+			[
+				"is_in",
+				"is_in_inventory"
+			],
+			[
+				"store",
+				"stored_items"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"stored",
+				"stored_en"
+			],
+			[
+				"entitfrom",
+				"entity_from_handle(handle: EntityHandle) -> *Entity"
+			],
+			[
+				"light",
+				"light_count"
+			],
+			[
+				"light_ra",
+				"light_radius"
+			],
+			[
+				"time",
+				"time_elapsed"
+			],
+			[
+				"strip",
+				"path_strip_extension"
+			],
+			[
+				"SPrite",
+				"SpriteID"
+			],
+			[
+				"Sprit",
+				"SpriteID"
+			],
+			[
+				"randomflo",
+				"random_get_within_range(min: float, max: float) -> float"
+			],
+			[
+				"random",
+				"random_get"
+			],
+			[
+				"random_",
+				"random_sign() -> float"
+			],
+			[
+				"push_see",
+				"push_random_seed(new_seed: u64) "
+			],
+			[
+				"Rang",
+				"Range1"
+			],
+			[
+				"cam",
+				"cam_zoom"
+			],
+			[
+				"li",
+				"light_count"
+			],
+			[
+				"get_const",
+				"get_global_const_buff() -> *GlobalConstBuffer"
+			],
+			[
+				"Glob",
+				"GlobalConstBuffer"
+			],
+			[
+				"align",
+				"align_forward(orig_size: s64, alignment: s64) -> s64"
+			],
+			[
+				"size",
+				"size_of"
+			],
+			[
+				"point",
+				"point_light"
+			],
+			[
+				"entit",
+				"entities"
+			],
+			[
+				"render",
+				"render_rect"
+			],
+			[
+				"layer",
+				"layer_cbuffer_resource"
+			],
+			[
+				"cbu",
+				"layer_cbuffer"
+			],
+			[
+				"layer_cbu",
+				"layer_cbuffer_resource"
+			],
+			[
+				"Global",
+				"GlobalConstBuffer"
+			],
+			[
+				"Ve",
+				"Vector4"
+			],
+			[
+				"Vec",
+				"Vector2"
+			],
+			[
+				"get_textu",
+				"get_texture(id: ResourceID) -> *ArcResource"
+			],
+			[
+				"resouce",
+				"resource_id_from_name(name: string) -> ResourceID"
+			],
+			[
+				"Resour",
+				"ResourceID"
+			],
+			[
+				"bgf",
+				"bg_forest3"
+			],
+			[
+				"bgfor",
+				"bg_forest2"
+			],
+			[
+				"resour",
+				"resources"
+			],
+			[
+				"charjum",
+				"char_jump_apex"
+			],
+			[
+				"char_jump",
+				"char_jump_rise"
+			],
+			[
+				"is_state",
+				"is_state_entry(en: *Entity, state: EntityState) -> bool"
+			],
+			[
+				"resource",
+				"resource_id"
+			],
+			[
+				"get_re",
+				"get_resource(id: ResourceID) -> *ArcResource"
+			],
+			[
+				"weight",
+				"total_weight_in_storage() -> int"
+			],
+			[
+				"hover",
+				"hovered_en"
+			],
+			[
+				"pikcu",
+				"pick_up"
+			],
+			[
+				"remove_p",
+				"remove_props(properties: *Properties, to_remove: Properties) "
+			],
+			[
+				"hot",
+				"hot_slot"
+			],
+			[
+				"hov",
+				"hovered_en"
+			],
+			[
+				"equi",
+				"equipped_items"
+			],
+			[
+				"hotba",
+				"hotbar_slots"
+			],
+			[
+				"handle",
+				"handle_from_entity(entity: *Entity) -> EntityHandle"
+			],
+			[
+				"set_state",
+				"set_interface_state(state: InterfaceState) "
+			],
+			[
+				"consume",
+				"consume_key(key: Input.Key_Code) "
+			],
+			[
+				"push_rando",
+				"push_random_seed(new_seed: u64) "
+			],
+			[
+				"mark",
+				"marked_for_destroy"
+			],
+			[
+				"emitt",
+				"create_emitter(pos: Vector2, kind: EmitterKind) -> *Entity"
+			],
+			[
+				"set_next_pref_",
+				"set_next_pref_width"
+			],
+			[
+				"set_next_p",
+				"set_next_pref_width"
+			],
+			[
+				"auto_ro",
+				"auto_row() -> *Box"
+			],
+			[
+				"noti",
+				"create_notification(txt: string, is_big := false) -> *Entity"
+			],
+			[
+				"can_st",
+				"can_store_item(entity_item: *Entity) -> bool"
+			],
+			[
+				"emit",
+				"create_emitter(pos: Vector2, kind: EmitterKind) -> *Entity"
+			],
+			[
+				"brea",
+				"breathe_target"
+			],
+			[
+				"inter",
+				"interactable_alpha_t"
+			],
+			[
+				"get",
+				"get_item"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"empt",
+				"empty_slot"
+			],
+			[
+				"interaction",
+				"interaction_target"
+			],
+			[
+				"array_res",
+				"array_reset(array: *[] $T) "
+			],
+			[
+				"perman",
+				"permanent_allocator"
+			],
+			[
+				"default",
+				"default_allocator"
+			],
+			[
+				"item_",
+				"item_count"
+			],
+			[
+				"goblin",
+				"goblin_meat"
+			],
+			[
+				"consum",
+				"consumable"
+			],
+			[
+				"window",
+				"window_w"
+			],
+			[
+				"set_ne",
+				"set_next_pref_width"
+			],
+			[
+				"set_next",
+				"set_next_flags"
+			],
+			[
+				"addp",
+				"add_props(properties: *Properties, to_add: .. properties.enum_type) "
+			],
+			[
+				"alpha",
+				"float_alpha"
+			],
+			[
+				"wood_",
+				"wood_defense_wall_props"
+			],
+			[
+				"remain",
+				"remaining_items"
+			],
+			[
+				"unloc",
+				"unlocked_recipes"
+			],
+			[
+				"clicke",
+				"clicked_r"
+			],
+			[
+				"equipp",
+				"equipped_items"
+			],
+			[
+				"equip",
+				"equipped_items"
+			],
+			[
+				"get_item",
+				"get_item_equipped_slot(item_en: *Entity) -> *EntityHandle"
+			],
+			[
+				"equpi",
+				"equip_slot"
+			],
+			[
+				"E",
+				"EntityHandle"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"spac",
+				"spacer(size: Size) "
+			],
+			[
+				"font_",
+				"font_size_pct(pct: float) -> int"
+			],
+			[
+				"make_p",
+				"make_props(props: .. $T) -> Properties(T)"
+			],
+			[
+				"mouse",
+				"mouse_pos"
+			],
+			[
+				"set_next_floa",
+				"set_next_floating_y"
+			],
+			[
+				"set_next_flo",
+				"set_next_floating_x"
+			],
+			[
+				"icon",
+				"icon(sprite_id: SpriteID, name: string, size: Size, vertical_pad_pct: float = 0.1, horizontal_pad_pct: float = 0.1) -> *Box"
+			],
+			[
+				"screen",
+				"screen_mouse_to_cardinal(right_handed: bool = true) -> Vector2"
+			],
+			[
+				"windo",
+				"window_h"
+			],
+			[
+				"set_next_text",
+				"set_next_text_justify_y(in: PivotY) "
+			],
+			[
+				"stack",
+				"stackable_slot"
+			],
+			[
+				"emp",
+				"empty_slot"
+			],
+			[
+				"Enti",
+				"EntityHandle"
+			],
+			[
+				"totalw",
+				"total_weight_in_storage() -> int"
+			],
+			[
+				"set_enxt_text",
+				"set_next_text_justify_x"
+			],
+			[
+				"rgb",
+				"rbg_helper(r: float, g: float, b: float, a: = 1.0) -> Vector4"
+			],
+			[
+				"total",
+				"total_weight_in_storage() -> int"
+			],
+			[
+				"entityfrom",
+				"entity_from_handle(handle: EntityHandle) -> *Entity"
+			],
+			[
+				"entityf",
+				"entity_from_handle(handle: EntityHandle) -> *Entity"
+			],
+			[
+				"camera_",
+				"camera_offset"
+			],
+			[
+				"slot",
+				"slot_active"
+			],
+			[
+				"invent",
+				"inventory_slots"
+			],
+			[
+				"Resourc",
+				"ResourceID"
+			],
+			[
+				"eq",
+				"equip"
+			],
+			[
+				"unlock",
+				"unlocked_recipes"
+			],
+			[
+				"Res",
+				"ResourceID"
+			],
+			[
+				"REs",
+				"ResourceID"
+			],
+			[
+				"QueryPer",
+				"QueryPerformanceCounter"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"QueryP",
+				"QueryPerformanceFrequency"
+			],
+			[
+				"spall",
+				"spall_buffer_end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "module.jai",
+			"settings":
+			{
+				"buffer_size": 3766,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "steam.jai",
+			"settings":
+			{
+				"buffer_size": 10525,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AQAAAAEAAAAAAAAAiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAP///////+9/"
+				],
+				[
+					26,
+					1,
+					"paste",
+					null,
+					"AQAAAIwAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " ::"
+					},
+					"AwAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAKQAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " #forieg"
+					},
+					"CAAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAP///////+9/"
+				],
+				[
+					35,
+					1,
+					"insert_completion",
+					{
+						"completion": "foreign",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "foreign"
+					},
+					"AgAAAKgAAAAAAAAAqAAAAAAAAAAGAAAAZm9yaWVnqAAAAAAAAACvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgAAAAAAAACuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": " Stea"
+					},
+					"BQAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert_completion",
+					{
+						"completion": "steam",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "steam"
+					},
+					"AgAAALAAAAAAAAAAsAAAAAAAAAAEAAAAU3RlYbAAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "u16"
+					},
+					"AwAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "unIP:"
+					},
+					"BQAAAKUAAAAAAAAApgAAAAAAAAAAAAAApgAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKoAAAAAAAAAqwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAK4AAAAAAAAArwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgAAAAAAAACuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": " u"
+					},
+					"AgAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "sGamePort:"
+					},
+					"CgAAALEAAAAAAAAAsgAAAAAAAAAAAAAAsgAAAAAAAACzAAAAAAAAAAAAAACzAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAALoAAAAAAAAAuwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " u16,"
+					},
+					"BQAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwAAAAAAAAC7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " u16"
+					},
+					"BAAAAMAAAAAAAAAAwQAAAAAAAAAAAAAAwQAAAAAAAADCAAAAAAAAAAAAAADCAAAAAAAAAMMAAAAAAAAAAAAAAMMAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAMEAAAAAAAAAwQAAAAAAAAADAAAAdTE2",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "usQue"
+					},
+					"BQAAAMEAAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAADDAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert_completion",
+					{
+						"completion": "usQueryPort",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "usQueryPort"
+					},
+					"AgAAAMEAAAAAAAAAwQAAAAAAAAAFAAAAdXNRdWXBAAAAAAAAAMwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": " u176"
+					},
+					"BQAAAM0AAAAAAAAAzgAAAAAAAAAAAAAAzgAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					2,
+					"left_delete",
+					null,
+					"AgAAANEAAAAAAAAA0QAAAAAAAAABAAAANtAAAAAAAAAA0AAAAAAAAAABAAAANw",
+					"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "6,"
+					},
+					"AgAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANIAAAAAAAAA0wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "eServ"
+					},
+					"BQAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert_completion",
+					{
+						"completion": "eServerMode",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "eServerMode"
+					},
+					"AgAAANMAAAAAAAAA0wAAAAAAAAAFAAAAZVNlcnbTAAAAAAAAAN4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": " ESer"
+					},
+					"BQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "verMode"
+					},
+					"BwAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADmAAAAAAAAAAAAAADmAAAAAAAAAOcAAAAAAAAAAAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADpAAAAAAAAAAAAAADpAAAAAAAAAOoAAAAAAAAAAAAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wAAAAAAAADrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "pchVer"
+					},
+					"BgAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA7gAAAAAAAADvAAAAAAAAAAAAAADvAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA8QAAAAAAAAAAAAAA8QAAAAAAAADyAAAAAAAAAAAAAADyAAAAAAAAAPMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert_completion",
+					{
+						"completion": "pchVersionString",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "pchVersionString"
+					},
+					"AgAAAO0AAAAAAAAA7QAAAAAAAAAGAAAAcGNoVmVy7QAAAAAAAAD9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QAAAAAAAAD9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": " u8U"
+					},
+					"BAAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAEBAAAAAAAAAAAAAAEBAAAAAAAAAgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gAAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEBAAAAAAAAAQEAAAAAAAABAAAAVQ",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "*"
+					},
+					"AQAAAP8AAAAAAAAAAAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wAAAAAAAAD/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": " ->"
+					},
+					"AwAAAAMBAAAAAAAABAEAAAAAAAAAAAAABAEAAAAAAAAFAQAAAAAAAAAAAAAFAQAAAAAAAAYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " bool"
+					},
+					"BQAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAIAQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"paste",
+					null,
+					"AgAAAIwAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACpAAAAAAAAABQAAABTdGVhbUdhbWVTZXJ2ZXJfSW5pdA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"cut",
+					null,
+					"AQAAAIwAAAAAAAAAjAAAAAAAAAAdAAAAU3RlYW1JbnRlcm5hbF9HYW1lU2VydmVyX0luaXQ",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "GameServer"
+					},
+					"CgAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "_Init"
+					},
+					"BQAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAABABAAAAAAAAEgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"paste",
+					null,
+					"AQAAABEBAAAAAAAALgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQEAAAAAAAARAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"cut",
+					null,
+					"AQAAABABAAAAAAAAEAEAAAAAAAAfAAAAIlN0ZWFtSW50ZXJuYWxfR2FtZVNlcnZlcl9Jbml0Ig",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABUBAAAAAAAAFgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQEAAAAAAAAVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"paste",
+					null,
+					"AQAAABYBAAAAAAAANQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABWKgAACi8vYm9vbCBTdGVhbUdhbWVTZXJ2ZXJfSW5pdCggdWludDMyIHVuSVAsIHVpbnQxNiB1c0dhbWVQb3J0LCB1aW50MTYgdXNRdWVyeVBvcnQsIEVTZXJ2ZXJNb2RlIGVTZXJ2ZXJNb2RlLCBjb25zdCBjaGFyICpwY2hWZXJzaW9uU3RyaW5nICk7CgpHYW1lU2VydmVyX0luaXQgOjogKHVuSVA6IHUxNiwgdXNHYW1lUG9ydDogdTE2LCB1c1F1ZXJ5UG9ydDogdTE2LCBlU2VydmVyTW9kZTogRVNlcnZlck1vZGUsIHBjaFZlcnNpb25TdHJpbmc6ICp1OCkgLT4gYm9vbCAjZm9yZWlnbiBzdGVhbSAiU3RlYW1JbnRlcm5hbF9HYW1lU2VydmVyX0luaXQiOwoKCi8vIFN0YW5kYXJkIEphaSB3cmFwcGVyIG9mIGBTdGVhbXdvcmtzIFNES2AKLy8KLy8gSGFuZGxlcyBhIGxvdCBvZiBib29rLWtlZXBpbmcgZm9yIHlvdTsgaWYgeW91IHdhbnQgZnVsbCBjb250cm9sIHRoZW4gc2V0IHRoZQovLyBgdXNlX2ZsYXRfYXBpYCBtb2R1bGUgcGFyYW1ldGVyLCBhbmQgc3dpdGNoIHRvIHJlYWRpbmcgYHN0ZWFtX2ZsYXQuamFpYAovLyAodGhvdWdoIGlmIHlvdSBqdXN0IHdhbnQgdG8gc3BsYXNoIGluIHRoZSByYXcgY2FsbHMgdG8gaGFuZGxlIGVkZ2UgY2FzZXMgeW91Ci8vICBtaWdodCB3YW50IGBleHBvc2VfcmF3X2NhbGxzYCBpbnN0ZWFkLikKCgovLyBgSW5pdFN0ZWFtYCBtdXN0IGJlIGNhbGxlZCBiZWZvcmUgdXNpbmcgYW55IG90aGVyIEFQSSBmdW5jdGlvbnMuIElmIGl0IGZhaWxzLCBhbgovLyBlcnJvciBtZXNzYWdlIHdpbGwgYmUgb3V0cHV0IHRvIHRoZSBkZWJ1Z2dlciAob3Igc3RkZXJyKSB3aXRoIGZ1cnRoZXIgaW5mb3JtYXRpb24uCi8vIElmIHlvdSBhcmUgbm90IHVzaW5nIGEgYnVpbGQgc2NyaXB0ICh3aGljaCBpcyByZXF1aXJlZCB0byBhdXRvbWF0ZSByZWdpc3RlcmluZyBjYWxsYmFja3MpCi8vIHRoZW4geW91IG11c3QgaW1wb3J0IHRoaXMgbW9kdWxlIHdpdGggYGhhc19idWlsZF9zY3JpcHQgPSBmYWxzZWAsIG9yIGl0IHdpbGwgYmUgdW5hYmxlIHRvIGZpbmQKLy8gdGhlIGdlbmVyYXRlZCBzdHJpbmcgY29kZSBibG9jay4KCkluaXRTdGVhbSA6OiAoKSAtPiBzdWNjZXNzOiBib29sICNleHBhbmQgewoJc3VjY2VzcyA6PSBTdGVhbV9Jbml0KCk7CgkvLyBZb3UgbmVlZCB0byBjb21waWxlIHZpYSBhIGJ1aWxkIHNjcmlwdCB0byBlbmFibGUgY29kZSBnZW5lcmF0aW9uIGZvciBjYWxsYmFja3MgKHNlZSBkb2N1bWVudGF0aW9uKS4gSWYgeW91IGRvIG5vdCB3aXNoIHRvIGRvIHRoYXQgdGhlbiB5b3UgbmVlZCB0byBzZXQgdGhlIGBoYXNfYnVpbGRfc2NyaXB0YCBtb2R1bGUgcGFyYW1ldGVyIHRvIGZhbHNlIHNvIHRoYXQgdGhlIG1vZHVsZSBrbm93cyBpdCBjYW4gc2tpcCBpbnNlcnRpbmcgdGhlIGNhbGxiYWNrIGNvZGUgaXQgaXMgbm90IGFibGUgdG8gZ2VuZXJhdGUuCgkjaWYgaGFzX2J1aWxkX3NjcmlwdAoJCSNpbnNlcnQgYENhbm5vdF9HZW5lcmF0ZV9UaGlzX0NvZGVibG9ja19XaXRob3V0X0FfQnVpbGRfU2NyaXB0OwoJcmV0dXJuIHN1Y2Nlc3M7Cn0KCgovLyBgU2h1dGRvd25TdGVhbWAgc2hvdWxkIGJlIGNhbGxlZCBkdXJpbmcgcHJvY2VzcyBzaHV0ZG93biBpZiBwb3NzaWJsZS4KLy8gSWYgeW91IHNwZWNpZnkgdGhlIG9wdGlvbmFsIGB0aW1lb3V0YCBwYXJhbWV0ZXIgdGhlbiBpdCB3aWxsIHdhaXQgdGhhdCBsb25nIGZvcgovLyBhbnkgb3V0c3RhbmRpbmcgQ2FsbFJlc3VsdHMgdG8gY29tcGxldGUuCgpTaHV0ZG93blN0ZWFtIDo6ICh0aW1lb3V0IDogZmxvYXQ2NCA9IDApIC0+IGNsZWFuOiBib29sewoJaWYgdGltZW91dCB7CgkJZW5kX3RpbWUgOj0gZ2V0X3RpbWUoKSArIHRpbWVvdXQ7CgkJd2hpbGUgZ2V0X3RpbWUoKSA8IGVuZF90aW1lICYmIChhd2FpdGluZ19jYWxsX3Jlc3VsdHMoc3RlYW1fcGlwZSkgfHwgYXdhaXRpbmdfY2FsbF9yZXN1bHRzKHN0ZWFtX3NlcnZlcl9waXBlKSkgewoJCQlzbGVlcF9taWxsaXNlY29uZHMoMTApOwoJCQlSdW5DYWxsYmFja3MoKTsKCQl9Cgl9CgoJY2xlYW4gOj0gIShhd2FpdGluZ19jYWxsX3Jlc3VsdHMoc3RlYW1fcGlwZSkgfHwgYXdhaXRpbmdfY2FsbF9yZXN1bHRzKHN0ZWFtX3NlcnZlcl9waXBlKSk7CgoJU3RlYW1BUElfU2h1dGRvd24oKTsKCglyZXR1cm4gY2xlYW47Cn0KCgovLyBgUnVuQ2FsbGJhY2tzYCBkaXNwYXRjaGVzIGFsbCBhdmFpbGFibGUgY2FsbGJhY2tzLiAgSXQncyBiZXN0IHRvIGNhbGwgdGhpcyBhdCA+MTBIeiwgdGhlIG1vcmUgdGltZSBiZXR3ZWVuCi8vIGNhbGxzLCB0aGUgbW9yZSBwb3RlbnRpYWwgbGF0ZW5jeSBiZXR3ZWVuIHJlY2VpdmluZyBldmVudHMgb3IgcmVzdWx0cyBmcm9tIHRoZSBTdGVhbXdvcmtzIEFQSS4KLy8gTW9zdCBnYW1lcyBjYWxsIHRoaXMgb25jZSBwZXIgcmVuZGVyLWZyYW1lLgoKLy8gTm90ZSB0aGF0IGBSdW5DYWxsYmFja3NgIGFuZCBgU2VydmVyUnVuY2FsbGJhY2tzYCBhcmUgcGFydCBvZiB0aGUgSmFpIFN0ZWFtIGxpYnJhcnksIG5vdCBmb3JlaWduIGNhbGxzCi8vIHRvIHRoZSBzdGVhbSBETEwuCgovLyBZb3UgbWF5IGRlc2lnbmF0ZSBjYWxsYmFjayBwcm9jcyB3aXRoIHRoZSBgQFN0ZWFtQ2FsbGJhY2tgIGFubm90YXRpb246IHRvIGVuYWJsZSB0aGlzIGZlYXR1cmUgeW91IG11c3QKLy8gZG8gdHdvIHRoaW5nczoKLy8gCQkxKSBJbiB5b3VyIGJ1aWxkIHNjcmlwdCwgaW1wb3J0IHRoaXMgbW9kdWxlIHdpdGggdGhlIGBidWlsZGluZ2AgbW9kdWxlIHBhcmFtZXRlciBlbmFibGVkLCBhbmQKLy8gCQkgICB0aGVuIGNhbGwgYHN0ZWFtX2J1aWxkX3N0ZXAobWVzc2FnZSlgIGZvciBldmVyeSBjb21waWxlciBtZXNzYWdlLgovLyAgICAgIDIpIEFkZCBgI2luc2VydCBTdGVhbUNhbGxiYWNrc2AgYWZ0ZXIgeW91ciBjYWxsIHRvIGBJbml0U3RlYW1gLgovLyBTZWUgYG1vZHVsZS5qYWlgIGZvciBkZXRhaWxzLgoKLy8gWW91IG1heSBtYW51YWxseSByZWdpc3RlciBhIGNhbGxiYWNrIGJ5IGNhbGxpbmcgYFJlZ2lzdGVyQ2FsbGJhY2socHJvYylgLgoKUnVuQ2FsbGJhY2tzIDo6ICgpIHsKCXJ1bl9jYWxsYmFja3Moc3RlYW1fcGlwZSwgZmFsc2UpOwoJU3RlYW1BUElfUmVsZWFzZUN1cnJlbnRUaHJlYWRNZW1vcnkoKTsKfQoKU2VydmVyUnVuQ2FsbGJhY2tzIDo6ICgpIHsKCXJ1bl9jYWxsYmFja3Moc3RlYW1fc2VydmVyX3BpcGUsIHRydWUpOwoJU3RlYW1BUElfUmVsZWFzZUN1cnJlbnRUaHJlYWRNZW1vcnkoKTsKfQoKCi8vIFRoZXNlIHdpbGwgcmV0dXJuIHRoZSBudW1iZXIgb2YgdW5oYW5kbGVkIENhbGxSZXN1bHRzIGN1cnJlbnRseSBvdXRzdGFuZGluZy4KQXdhaXRpbmdDYWxsUmVzdWx0cyA6OiAoKSAtPiBpbnQgewoJcmV0dXJuIGF3YWl0aW5nX2NhbGxfcmVzdWx0cyhzdGVhbV9waXBlKTsKfQoKU2VydmVyQXdhaXRpbmdDYWxsUmVzdWx0cyA6OiAoKSAtPiBpbnQgewoJcmV0dXJuIGF3YWl0aW5nX2NhbGxfcmVzdWx0cyhzZXJ2ZXJfc3RlYW1fcGlwZSk7Cn0KCi8vIEBUT0RPIFJlbW92ZUNhbGxSZXN1bHQoaGFuZGxlKSwgU2VydmVyUmVtb3ZlQ2FsbFJlc3VsdChoYW5kbGUpCgoKLy8gWW91IG1heSBxdWVyeSBmb3Igc3BlY2lmaWMgb3V0c3RhbmRpbmcgQ2FsbFJlc3VsdHMgdXNpbmcgdGhlc2U6CkdldENhbGxSZXN1bHQgOjogKGluZGV4OiBpbnQpIC0+IGhhbmRsZTogU3RlYW1BUElDYWxsX3QsIGNhbGxyZXN1bHRfdHlwZTogczMyIHsKCWhhbmRsZSwgY2FsbHJlc3VsdF90eXBlIDo9IGF3YWl0aW5nX2NhbGxfcmVzdWx0cyhzdGVhbV9waXBlLCBpbmRleCk7CglyZXR1cm4gaGFuZGxlLCBjYWxscmVzdWx0X3R5cGU7Cn0KClNlcnZlckdldENhbGxSZXN1bHQgOjogKGluZGV4OiBpbnQpIC0+IGhhbmRsZTogU3RlYW1BUElDYWxsX3QsIGNhbGxyZXN1bHRfdHlwZTogczMyIHsKCWhhbmRsZSwgY2FsbHJlc3VsdF90eXBlIDo9IGF3YWl0aW5nX2NhbGxfcmVzdWx0cyhzZXJ2ZXJfc3RlYW1fcGlwZSwgaW5kZXgpOwoJcmV0dXJuIGhhbmRsZSwgY2FsbHJlc3VsdF90eXBlOwp9CgoKLy8gYFJlc3RhcnRBcHBJZk5lY2Vzc2FyeWAgZW5zdXJlcyB0aGF0IHlvdXIgZXhlY3V0YWJsZSB3YXMgbGF1bmNoZWQgdGhyb3VnaCBTdGVhbS4KLy8KLy8gUmV0dXJucyB0cnVlIGlmIHRoZSBjdXJyZW50IHByb2Nlc3Mgc2hvdWxkIHRlcm1pbmF0ZS4gU3RlYW0gaXMgbm93IHJlLWxhdW5jaGluZyB5b3VyIGFwcGxpY2F0aW9uLgovLwovLyBSZXR1cm5zIGZhbHNlIGlmIG5vIGFjdGlvbiBuZWVkcyB0byBiZSB0YWtlbi4gVGhpcyBtZWFucyB0aGF0IHlvdXIgZXhlY3V0YWJsZSB3YXMgc3RhcnRlZCB0aHJvdWdoCi8vIHRoZSBTdGVhbSBjbGllbnQsIG9yIGEgc3RlYW1fYXBwaWQudHh0IGZpbGUgaXMgcHJlc2VudCBpbiB5b3VyIGdhbWUncyBkaXJlY3RvcnkgKGZvciBkZXZlbG9wbWVudCkuCi8vIFlvdXIgY3VycmVudCBwcm9jZXNzIHNob3VsZCBjb250aW51ZSBpZiBmYWxzZSBpcyByZXR1cm5lZC4KLy8KLy8gTk9URTogSWYgeW91IHVzZSB0aGUgU3RlYW0gRFJNIHdyYXBwZXIgb24geW91ciBwcmltYXJ5IGV4ZWN1dGFibGUgZmlsZSwgdGhpcyBjaGVjayBpcyB1bm5lY2Vzc2FyeQovLyBzaW5jZSB0aGUgRFJNIHdyYXBwZXIgd2lsbCBlbnN1cmUgdGhhdCB5b3VyIGFwcGxpY2F0aW9uIHdhcyBsYXVuY2hlZCBwcm9wZXJseSB0aHJvdWdoIFN0ZWFtLgoKUmVzdGFydEFwcElmTmVjZXNzYXJ5IDo6ICh1bk93bkFwcElEOiB1aW50MzIpIC0+IHJlcXVpcmVkX3Jlc3RhcnQ6IGJvb2wgewoJcmV0dXJuIFN0ZWFtQVBJX1Jlc3RhcnRBcHBJZk5lY2Vzc2FyeSh1bk93bkFwcElEKTsKfTsKCgovLyBNYW55IFN0ZWFtIEFQSSBmdW5jdGlvbnMgYWxsb2NhdGUgYSBzbWFsbCBhbW91bnQgb2YgdGhyZWFkLWxvY2FsIG1lbW9yeSBmb3IgcGFyYW1ldGVyIHN0b3JhZ2UuCi8vIGBSZWxlYXNlQ3VycmVudFRocmVhZE1lbW9yeSgpYCB3aWxsIGZyZWUgQVBJIG1lbW9yeSBhc3NvY2lhdGVkIHdpdGggdGhlIGNhbGxpbmcgdGhyZWFkLgovLyBUaGlzIGZ1bmN0aW9uIGlzIGFsc28gY2FsbGVkIGF1dG9tYXRpY2FsbHkgYnkgYFJ1bkNhbGxiYWNrcygpYCwgc28gYSBzaW5nbGUtdGhyZWFkZWQKLy8gcHJvZ3JhbSBuZXZlciBuZWVkcyB0byBleHBsaWNpdGx5IGNhbGwgdGhpcyBmdW5jdGlvbi4KClJlbGVhc2VDdXJyZW50VGhyZWFkTWVtb3J5IDo6ICgpIHsKCVN0ZWFtQVBJX1JlbGVhc2VDdXJyZW50VGhyZWFkTWVtb3J5KCk7Cn0KCgovLyBDcmFzaCBkdW1wIHJlY29yZGluZyBmdW5jdGlvbnMKCldyaXRlTWluaUR1bXAgOjogKHVTdHJ1Y3R1cmVkRXhjZXB0aW9uQ29kZTogdWludDMyLCBwdkV4Y2VwdGlvbkluZm86ICp2b2lkLCB1QnVpbGRJRDogdWludDMyKSB7CglTdGVhbUFQSV9Xcml0ZU1pbmlEdW1wKHVTdHJ1Y3R1cmVkRXhjZXB0aW9uQ29kZSwgcHZFeGNlcHRpb25JbmZvLCB1QnVpbGRJRCk7Cn0KClNldE1pbmlEdW1wQ29tbWVudCA6OiAocGNoTXNnOiAqY2hhcikgewoJU3RlYW1BUElfU2V0TWluaUR1bXBDb21tZW50KHBjaE1zZyk7Cn0KCgovLyAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vCVRoZSBmb2xsb3dpbmcgZnVuY3Rpb25zIGFyZSBwYXJ0IG9mIGFic3RyYWN0aW5nIEFQSSBhY2Nlc3MgdG8gdGhlIHN0ZWFtY2xpZW50LmRsbCwgYnV0IHNob3VsZCBvbmx5IGJlIHVzZWQgaW4gdmVyeSBzcGVjaWZpYyBjYXNlcwovLyAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoKLy8gYElzU3RlYW1SdW5uaW5nKClgIHJldHVybnMgdHJ1ZSBpZiBTdGVhbSBpcyBjdXJyZW50bHkgcnVubmluZwoKSXNTdGVhbVJ1bm5pbmcgOjogKCkgLT4gaXNfcnVubmluZzogYm9vbCB7CglyZXR1cm4gU3RlYW1BUElfSXNTdGVhbVJ1bm5pbmcoKTsKfQoKCi8vIFRoaXMgc2hvdWxkIGJlIGNhbGxlZCBiZWZvcmUgdGhlIGdhbWUgaW5pdGlhbGl6ZWQgdGhlIHN0ZWFtIEFQSXMKLy8gYHBjaERhdGVgCQkJCSAgc2hvdWxkIGJlIG9mIHRoZSBmb3JtYXQgIk1tbSBkZCB5eXl5IiAoc3VjaCBhcyBmcm9tIHRoZSBfXyBEQVRFIF9fIG1hY3JvICkKLy8gYHBjaFRpbWVgCQkJCSAgc2hvdWxkIGJlIG9mIHRoZSBmb3JtYXQgImhoOm1tOnNzIiAoc3VjaCBhcyBmcm9tIHRoZSBfXyBUSU1FIF9fIG1hY3JvICkKLy8gYGJGdWxsTWVtb3J5RHVtcHNgIAkJICAoV2luMzIgb25seSkgd3JpdGVzIG91dCBhIHV1aWQtZnVsbC5kbXAgaW4gdGhlIGNsaWVudC9kdW1wcyBmb2xkZXIKLy8gYHB2Q29udGV4dGAJCQkJICBjYW4gYmUgTlVMTCwgd2lsbCBiZSB0aGUgdm9pZCAqIGNvbnRleHQgcGFzc2VkIGludG8gbV9wZm5QcmVNaW5pZHVtcENhbGxiYWNrCi8vIGBtX3BmblByZU1pbmlkdW1wQ2FsbGJhY2tgIG9wdGlvbmFsIGNhbGxiYWNrIHdoaWNoIG9jY3VycyBqdXN0IGJlZm9yZSBhIC5kbXAgZmlsZSBpcyB3cml0dGVuIGR1cmluZyBhIGNyYXNoLgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcHBsaWNhdGlvbnMgY2FuIGhvb2sgdGhpcyB0byBhbGxvdyBhZGRpbmcgYWRkaXRpb25hbCBpbmZvcm1hdGlvbiBpbnRvIHRoZSAuZG1wIGNvbW1lbnQgc3RyZWFtLgoKVXNlQnJlYWtwYWRDcmFzaEhhbmRsZXIgOjogKHBjaFZlcnNpb246ICpjaGFyLCBwY2hEYXRlOiAqY2hhciwgcGNoVGltZTogKmNoYXIsICBiRnVsbE1lbW9yeUR1bXBzOiBib29sLCBwdkNvbnRleHQ6ICp2b2lkLCBtX3BmblByZU1pbmlkdW1wQ2FsbGJhY2s6IFBGTlByZU1pbmlkdW1wQ2FsbGJhY2spIHsKCVN0ZWFtQVBJX1VzZUJyZWFrcGFkQ3Jhc2hIYW5kbGVyKHBjaFZlcnNpb24sIHBjaERhdGUsIHBjaFRpbWUsICBiRnVsbE1lbW9yeUR1bXBzLCBwdkNvbnRleHQsIG1fcGZuUHJlTWluaWR1bXBDYWxsYmFjayk7Cn0KClNldEJyZWFrcGFkQXBwSUQgOjogKHVuQXBwSUQ6IHVpbnQzMikgewoJU3RlYW1BUElfU2V0QnJlYWtwYWRBcHBJRCh1bkFwcElEKTsKfQoKCiNzY29wZV9tb2R1bGUKCgpTdGVhbV9Jbml0IDo6ICgpIC0+IHN1Y2Nlc3M6IGJvb2wgewogICAgc3VjY2VzcyA6PSBTdGVhbUFQSV9Jbml0KCk7CiAgICBpZiAhc3VjY2VzcyB7CiAgICAgICAgaWYgdmVyYm9zZSB7CiAgICAgICAgICAgIHByaW50KCNzdHJpbmcgX19fCkZhaWxlZCB0byBpbml0IHN0ZWFtLCB0aGlzIGNvdWxkIGJlIGZvciBvbmUgb2YgdGhlIGZvbGxvd2luZyByZWFzb25zOgoqIFRoZSBTdGVhbSBjbGllbnQgaXNuJ3QgcnVubmluZy4gQSBydW5uaW5nIFN0ZWFtIGNsaWVudCBpcyByZXF1aXJlZCB0byBwcm92aWRlIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgdmFyaW91cyBTdGVhbXdvcmtzIGludGVyZmFjZXMuCiogVGhlIFN0ZWFtIGNsaWVudCBjb3VsZG4ndCBkZXRlcm1pbmUgdGhlIEFwcCBJRCBvZiBnYW1lLiBJZiB5b3UncmUgcnVubmluZyB5b3VyIGFwcGxpY2F0aW9uIGZyb20gdGhlIGV4ZWN1dGFibGUgb3IgZGVidWdnZXIgZGlyZWN0bHkgdGhlbiB5b3UgbXVzdCBoYXZlIGEgc3RlYW1fYXBwaWQudHh0IGluIHlvdXIgZ2FtZSBkaXJlY3RvcnkgbmV4dCB0byB0aGUgZXhlY3V0YWJsZSwgd2l0aCB5b3VyIGFwcCBJRCBpbiBpdCBhbmQgbm90aGluZyBlbHNlLiBTdGVhbSB3aWxsIGxvb2sgZm9yIHRoaXMgZmlsZSBpbiB0aGUgY3VycmVudCB3b3JraW5nIGRpcmVjdG9yeS4gSWYgeW91IGFyZSBydW5uaW5nIHlvdXIgZXhlY3V0YWJsZSBmcm9tIGEgZGlmZmVyZW50IGRpcmVjdG9yeSB5b3UgbWF5IG5lZWQgdG8gcmVsb2NhdGUgdGhlIHN0ZWFtX2FwcGlkLnR4dCBmaWxlLgoqIFlvdXIgYXBwbGljYXRpb24gaXMgbm90IHJ1bm5pbmcgdW5kZXIgdGhlIHNhbWUgT1MgdXNlciBjb250ZXh0IGFzIHRoZSBTdGVhbSBjbGllbnQsIHN1Y2ggYXMgYSBkaWZmZXJlbnQgdXNlciBvciBhZG1pbmlzdHJhdGlvbiBhY2Nlc3MgbGV2ZWwuCiogRW5zdXJlIHRoYXQgeW91IG93biBhIGxpY2Vuc2UgZm9yIHRoZSBBcHAgSUQgb24gdGhlIGN1cnJlbnRseSBhY3RpdmUgU3RlYW0gYWNjb3VudC4gWW91ciBnYW1lIG11c3Qgc2hvdyB1cCBpbiB5b3VyIFN0ZWFtIGxpYnJhcnkuCiogWW91ciBBcHAgSUQgaXMgbm90IGNvbXBsZXRlbHkgc2V0IHVwLCBpLmUuIGluIFJlbGVhc2UgU3RhdGU6IFVuYXZhaWxhYmxlLCBvciBpdCdzIG1pc3NpbmcgZGVmYXVsdCBwYWNrYWdlcy4KICAgICAgICAgICAgX19fKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBhc3NpZ25fYWxsX3NpbmdsZXRvbnMoKTsKCglTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9Jbml0KCk7CgoJc3RlYW1fcGlwZSA9IFN0ZWFtQVBJX0dldEhTdGVhbVBpcGUoKTsKCXN0ZWFtX3NlcnZlcl9waXBlID0gU3RlYW1HYW1lU2VydmVyX0dldEhTdGVhbVBpcGUoKTsKCiAgICByZXR1cm4gdHJ1ZTsKfQoKCgojaWYgT1MgPT0gLldJTkRPV1MgewogICAgc3RlYW0gOjogI2xpYnJhcnkgImxpYi93aW4vc3RlYW1fYXBpNjQiOwp9IGVsc2UgI2lmIE9TID09IC5NQUNPUyB7CiAgICBzdGVhbSA6OiAjbGlicmFyeSAibGliL21hYy9saWJzdGVhbV9hcGkiOwp9IGVsc2UgI2lmIE9TID09IC5MSU5VWCB7CiAgICBzdGVhbSA6OiAjbGlicmFyeSAibGliL2xpbnV4L2xpYnN0ZWFtX2FwaSI7Cn0KCgojaW1wb3J0ICJCYXNpYyI7CiNpbXBvcnQgIkhhc2hfVGFibGUiOwoKI2lmIGV4cG9zZV9yYXdfY2FsbHMKCSNsb2FkICJzcmMtYXV0b2dlbi9hcGlfZmxhdF9wcm9jc19leHBvc2VkLmphaSI7CmVsc2UKCSNsb2FkICJzcmMtYXV0b2dlbi9hcGlfZmxhdF9wcm9jc19pbnRlcm5hbC5qYWkiOwoKI2xvYWQgInNyYy9zdGVhbV90eXBlcy5qYWkiOwojbG9hZCAic3JjL3N0ZWFtX2NsaWVudF9oZWFkZXIuamFpIjsKI2xvYWQgInNyYy1hdXRvZ2VuL2FwaV9mbGF0X3R5cGVzX2ludGVybmFsLmphaSI7CiNsb2FkICJzcmMtYXV0b2dlbi9wYXJ0aWFsX3N0ZWFtX2Fzc2lnbm1lbnRzLmphaSI7CiNsb2FkICJzcmMtYXV0b2dlbi9wYXJ0aWFsX3N0ZWFtX2xvYWRzLmphaSI7CiNsb2FkICJzcmMtYXV0b2dlbi9wYXJ0aWFsX3N0ZWFtX2NhbGxiYWNrcy5qYWkiOwojbG9hZCAic3JjLWF1dG9nZW4vc3RlYW1fY2xpZW50LmphaSI7CiNsb2FkICJzcmMtYXV0b2dlbi9zdGVhbV9hcGkuamFpIjsKCgovLyBNb3JlIGRldGFpbGVkIGRvY3VtZW50YXRpb24gYWJvdXQgdGhlIGZvbGxvd2luZyBjYWxscyBjYW4gYmUgZm91bmQgaW4gYHN0ZWFtX2ZsYXQuamFpYCwKLy8gYnV0IGlmIHlvdSdyZSB1c2luZyB0aGlzIHZlcnNpb24gb2YgdGhlIG1vZHVsZSB5b3Ugc2hvdWxkbid0IG5lZWQgdG8gd29ycnkgYWJvdXQgdGhlbS4KClN0ZWFtQVBJX0luaXQgOjogKCkgLT4gYm9vbCAjZm9yZWlnbiBzdGVhbTsKU3RlYW1BUElfU2h1dGRvd24gOjogKCkgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtQVBJX1Jlc3RhcnRBcHBJZk5lY2Vzc2FyeSA6OiAodW5Pd25BcHBJRDogdWludDMyKSAtPiBib29sICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9SZWxlYXNlQ3VycmVudFRocmVhZE1lbW9yeSA6OiAoKSAjZm9yZWlnbiBzdGVhbTsKU3RlYW1BUElfV3JpdGVNaW5pRHVtcCA6OiAodVN0cnVjdHVyZWRFeGNlcHRpb25Db2RlOiB1aW50MzIsIHB2RXhjZXB0aW9uSW5mbzogKnZvaWQsIHVCdWlsZElEOiB1aW50MzIpICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9TZXRNaW5pRHVtcENvbW1lbnQgOjogKHBjaE1zZzogKmNoYXIpICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9Jc1N0ZWFtUnVubmluZyA6OiAoKSAtPiBib29sICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9Vc2VCcmVha3BhZENyYXNoSGFuZGxlciA6OiAocGNoVmVyc2lvbjogKmNoYXIsIHBjaERhdGU6ICpjaGFyLCBwY2hUaW1lOiAqY2hhciwgIGJGdWxsTWVtb3J5RHVtcHM6IGJvb2wsIHB2Q29udGV4dDogKnZvaWQsIG1fcGZuUHJlTWluaWR1bXBDYWxsYmFjazogUEZOUHJlTWluaWR1bXBDYWxsYmFjaykgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtQVBJX1NldEJyZWFrcGFkQXBwSUQgOjogKHVuQXBwSUQ6IHVpbnQzMikgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtQVBJX01hbnVhbERpc3BhdGNoX0luaXQgOjogKCkgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtQVBJX01hbnVhbERpc3BhdGNoX1J1bkZyYW1lIDo6IChoU3RlYW1QaXBlOiBIU3RlYW1QaXBlKSAjZm9yZWlnbiBzdGVhbTsKU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0TmV4dENhbGxiYWNrIDo6IChoU3RlYW1QaXBlOiBIU3RlYW1QaXBlLCBwQ2FsbGJhY2tNc2c6ICpDYWxsYmFja01zZ190KSAtPiBib29sICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9GcmVlTGFzdENhbGxiYWNrIDo6IChoU3RlYW1QaXBlOiBIU3RlYW1QaXBlKSAjZm9yZWlnbiBzdGVhbTsKU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0QVBJQ2FsbFJlc3VsdCA6OiAoaFN0ZWFtUGlwZTogSFN0ZWFtUGlwZSwgaFN0ZWFtQVBJQ2FsbDogU3RlYW1BUElDYWxsX3QsIHBDYWxsYmFjazogKnZvaWQsIGN1YkNhbGxiYWNrOiBpbnQsIGlDYWxsYmFja0V4cGVjdGVkOiBpbnQsIHBiRmFpbGVkOiAqYm9vbCkgLT4gYm9vbCAjZm9yZWlnbiBzdGVhbTsKCnN0ZWFtX3BpcGUgOiBIU3RlYW1QaXBlOwpzdGVhbV9zZXJ2ZXJfcGlwZSA6IEhTdGVhbVBpcGU7CgpTdGVhbUFQSV9HZXRIU3RlYW1QaXBlIDo6ICgpIC0+IEhTdGVhbVBpcGUgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtR2FtZVNlcnZlcl9HZXRIU3RlYW1QaXBlIDo6ICgpICAtPiBIU3RlYW1QaXBlICNmb3JlaWduIHN0ZWFtOwoAAAAAAAAAAB0pAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AUAAAAAAADoBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "steam_flat.jai",
+			"settings":
+			{
+				"buffer_size": 11430,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABqKwAALy8gRGlyZWN0LCB1bmFkdWx0ZXJhdGVkIGZsYXQgd3JhcHBlciBvZiB0aGUgU3RlYW13b3JrcyBTREsuCgovLyBTdGVhbUFQSV9Jbml0IG11c3QgYmUgY2FsbGVkIGJlZm9yZSB1c2luZyBhbnkgb3RoZXIgQVBJIGZ1bmN0aW9ucy4gSWYgaXQgZmFpbHMsIGFuCi8vIGVycm9yIG1lc3NhZ2Ugd2lsbCBiZSBvdXRwdXQgdG8gdGhlIGRlYnVnZ2VyIChvciBzdGRlcnIpIHdpdGggZnVydGhlciBpbmZvcm1hdGlvbi4KU3RlYW1BUElfSW5pdCA6OiAoKSAtPiBib29sIHsKCWlmIFN0ZWFtQVBJX0luaXRfSW50ZXJuYWwoKSB7CgkJU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfSW5pdCgpOyAvLyBXZSBoYXZlIHRvIHVzZSBtYW51YWwgZGlzcGF0Y2gsIHNvIGxldCdzIGp1c3QgYWx3YXlzIGNhbGwgdGhpcwoJCXJldHVybiB0cnVlOwoJfQoJcmV0dXJuIGZhbHNlOwp9CgovLyBTdGVhbUFQSV9TaHV0ZG93biBzaG91bGQgYmUgY2FsbGVkIGR1cmluZyBwcm9jZXNzIHNodXRkb3duIGlmIHBvc3NpYmxlLgpTdGVhbUFQSV9TaHV0ZG93biA6OiAoKSAjZm9yZWlnbiBzdGVhbTsKCi8vIFN0ZWFtQVBJX1Jlc3RhcnRBcHBJZk5lY2Vzc2FyeSBlbnN1cmVzIHRoYXQgeW91ciBleGVjdXRhYmxlIHdhcyBsYXVuY2hlZCB0aHJvdWdoIFN0ZWFtLgovLwovLyBSZXR1cm5zIHRydWUgaWYgdGhlIGN1cnJlbnQgcHJvY2VzcyBzaG91bGQgdGVybWluYXRlLiBTdGVhbSBpcyBub3cgcmUtbGF1bmNoaW5nIHlvdXIgYXBwbGljYXRpb24uCi8vCi8vIFJldHVybnMgZmFsc2UgaWYgbm8gYWN0aW9uIG5lZWRzIHRvIGJlIHRha2VuLiBUaGlzIG1lYW5zIHRoYXQgeW91ciBleGVjdXRhYmxlIHdhcyBzdGFydGVkIHRocm91Z2gKLy8gdGhlIFN0ZWFtIGNsaWVudCwgb3IgYSBzdGVhbV9hcHBpZC50eHQgZmlsZSBpcyBwcmVzZW50IGluIHlvdXIgZ2FtZSdzIGRpcmVjdG9yeSAoZm9yIGRldmVsb3BtZW50KS4KLy8gWW91ciBjdXJyZW50IHByb2Nlc3Mgc2hvdWxkIGNvbnRpbnVlIGlmIGZhbHNlIGlzIHJldHVybmVkLgovLwovLyBOT1RFOiBJZiB5b3UgdXNlIHRoZSBTdGVhbSBEUk0gd3JhcHBlciBvbiB5b3VyIHByaW1hcnkgZXhlY3V0YWJsZSBmaWxlLCB0aGlzIGNoZWNrIGlzIHVubmVjZXNzYXJ5Ci8vIHNpbmNlIHRoZSBEUk0gd3JhcHBlciB3aWxsIGVuc3VyZSB0aGF0IHlvdXIgYXBwbGljYXRpb24gd2FzIGxhdW5jaGVkIHByb3Blcmx5IHRocm91Z2ggU3RlYW0uClN0ZWFtQVBJX1Jlc3RhcnRBcHBJZk5lY2Vzc2FyeSA6OiAodW5Pd25BcHBJRDogdWludDMyKSAtPiBib29sICNmb3JlaWduIHN0ZWFtOwoKLy8gTWFueSBTdGVhbSBBUEkgZnVuY3Rpb25zIGFsbG9jYXRlIGEgc21hbGwgYW1vdW50IG9mIHRocmVhZC1sb2NhbCBtZW1vcnkgZm9yIHBhcmFtZXRlciBzdG9yYWdlLgovLyBTdGVhbUFQSV9SZWxlYXNlQ3VycmVudFRocmVhZE1lbW9yeSgpIHdpbGwgZnJlZSBBUEkgbWVtb3J5IGFzc29jaWF0ZWQgd2l0aCB0aGUgY2FsbGluZyB0aHJlYWQuCi8vIFRoaXMgZnVuY3Rpb24gaXMgYWxzbyBjYWxsZWQgYXV0b21hdGljYWxseSBieSBTdGVhbUFQSV9SdW5DYWxsYmFja3MoKSwgc28gYSBzaW5nbGUtdGhyZWFkZWQKLy8gcHJvZ3JhbSBuZXZlciBuZWVkcyB0byBleHBsaWNpdGx5IGNhbGwgdGhpcyBmdW5jdGlvbi4KU3RlYW1BUElfUmVsZWFzZUN1cnJlbnRUaHJlYWRNZW1vcnkgOjogKCkgI2ZvcmVpZ24gc3RlYW07CgoKCi8vIGNyYXNoIGR1bXAgcmVjb3JkaW5nIGZ1bmN0aW9ucwpTdGVhbUFQSV9Xcml0ZU1pbmlEdW1wIDo6ICh1U3RydWN0dXJlZEV4Y2VwdGlvbkNvZGU6IHVpbnQzMiwgcHZFeGNlcHRpb25JbmZvOiAqdm9pZCwgdUJ1aWxkSUQ6IHVpbnQzMikgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtQVBJX1NldE1pbmlEdW1wQ29tbWVudCA6OiAocGNoTXNnOiAqY2hhcikgI2ZvcmVpZ24gc3RlYW07CgovLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0vLwovLwlzdGVhbWNsaWVudC5kbGwgcHJpdmF0ZSB3cmFwcGVyIGZ1bmN0aW9ucwovLwovLwlUaGUgZm9sbG93aW5nIGZ1bmN0aW9ucyBhcmUgcGFydCBvZiBhYnN0cmFjdGluZyBBUEkgYWNjZXNzIHRvIHRoZSBzdGVhbWNsaWVudC5kbGwsIGJ1dCBzaG91bGQgb25seSBiZSB1c2VkIGluIHZlcnkgc3BlY2lmaWMgY2FzZXMKLy8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLy8KCi8vIFN0ZWFtQVBJX0lzU3RlYW1SdW5uaW5nKCkgcmV0dXJucyB0cnVlIGlmIFN0ZWFtIGlzIGN1cnJlbnRseSBydW5uaW5nClN0ZWFtQVBJX0lzU3RlYW1SdW5uaW5nIDo6ICgpIC0+IGJvb2wgI2ZvcmVpZ24gc3RlYW07CgovLyByZXR1cm5zIHRoZSBmaWxlbmFtZSBwYXRoIG9mIHRoZSBjdXJyZW50IHJ1bm5pbmcgU3RlYW0gcHJvY2VzcywgdXNlZCBpZiB5b3UgbmVlZCB0byBsb2FkIGFuIGV4cGxpY2l0IHN0ZWFtIGRsbCBieSBuYW1lLgovLyBERVBSRUNBVEVEIC0gaW1wbGVtZW50YXRpb24gaXMgV2luZG93cyBvbmx5LCBhbmQgdGhlIHBhdGggcmV0dXJuZWQgaXMgYSBVVEYtOCBzdHJpbmcgd2hpY2ggbXVzdCBiZSBjb252ZXJ0ZWQgdG8gVVRGLTE2IGZvciB1c2Ugd2l0aCBXaW4zMiBBUElzClN0ZWFtQVBJX0dldFN0ZWFtSW5zdGFsbFBhdGggOjogKCkgLT4gKmNoYXIgI2ZvcmVpZ24gc3RlYW07CgovLyBzZXRzIHdoZXRoZXIgb3Igbm90IFN0ZWFtX1J1bkNhbGxiYWNrcygpIHNob3VsZCBkbyBhIHRyeSB7fSBjYXRjaCAoLi4uKSB7fSBhcm91bmQgY2FsbHMgdG8gaXNzdWluZyBjYWxsYmFja3MKLy8gVGhpcyBpcyBpZ25vcmVkIGlmIHlvdSBhcmUgdXNpbmcgdGhlIG1hbnVhbCBjYWxsYmFjayBkaXNwYXRjaCBtZXRob2QKU3RlYW1BUElfU2V0VHJ5Q2F0Y2hDYWxsYmFja3MgOjogKGJUcnlDYXRjaENhbGxiYWNrczogIGJvb2wpICNmb3JlaWduIHN0ZWFtOwoKLy8gdGhpcyBzaG91bGQgYmUgY2FsbGVkIGJlZm9yZSB0aGUgZ2FtZSBpbml0aWFsaXplZCB0aGUgc3RlYW0gQVBJcwovLyBwY2hEYXRlIHNob3VsZCBiZSBvZiB0aGUgZm9ybWF0ICJNbW0gZGQgeXl5eSIgKHN1Y2ggYXMgZnJvbSB0aGUgX18gREFURSBfXyBtYWNybyApCi8vIHBjaFRpbWUgc2hvdWxkIGJlIG9mIHRoZSBmb3JtYXQgImhoOm1tOnNzIiAoc3VjaCBhcyBmcm9tIHRoZSBfXyBUSU1FIF9fIG1hY3JvICkKLy8gYkZ1bGxNZW1vcnlEdW1wcyAoV2luMzIgb25seSkgLS0gd3JpdGVzIG91dCBhIHV1aWQtZnVsbC5kbXAgaW4gdGhlIGNsaWVudC9kdW1wcyBmb2xkZXIKLy8gcHZDb250ZXh0LS0gY2FuIGJlIE5VTEwsIHdpbGwgYmUgdGhlIHZvaWQgKiBjb250ZXh0IHBhc3NlZCBpbnRvIG1fcGZuUHJlTWluaWR1bXBDYWxsYmFjawovLyBQRk5QcmVNaW5pZHVtcENhbGxiYWNrIG1fcGZuUHJlTWluaWR1bXBDYWxsYmFjayAgIC0tIG9wdGlvbmFsIGNhbGxiYWNrIHdoaWNoIG9jY3VycyBqdXN0IGJlZm9yZSBhIC5kbXAgZmlsZSBpcyB3cml0dGVuIGR1cmluZyBhIGNyYXNoLiAgQXBwbGljYXRpb25zIGNhbiBob29rIHRoaXMgdG8gYWxsb3cgYWRkaW5nIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gaW50byB0aGUgLmRtcCBjb21tZW50IHN0cmVhbS4KU3RlYW1BUElfVXNlQnJlYWtwYWRDcmFzaEhhbmRsZXIgOjogKHBjaFZlcnNpb246ICpjaGFyLCBwY2hEYXRlOiAqY2hhciwgcGNoVGltZTogKmNoYXIsICBiRnVsbE1lbW9yeUR1bXBzOiBib29sLCBwdkNvbnRleHQ6ICp2b2lkLCBtX3BmblByZU1pbmlkdW1wQ2FsbGJhY2s6IFBGTlByZU1pbmlkdW1wQ2FsbGJhY2spICNmb3JlaWduIHN0ZWFtOwpTdGVhbUFQSV9TZXRCcmVha3BhZEFwcElEIDo6ICh1bkFwcElEOiB1aW50MzIpICNmb3JlaWduIHN0ZWFtOwoKCgovLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0vLwovLwovLyBNYW51YWwgY2FsbGJhY2sgbG9vcAovLwovLyBBbiBhbHRlcm5hdGl2ZSBtZXRob2QgZm9yIGRpc3BhdGNoaW5nIGNhbGxiYWNrcy4gIFNpbWlsYXIgdG8gYSB3aW5kb3dzIG1lc3NhZ2UgbG9vcC4KLy8KLy8gSWYgeW91IHVzZSB0aGUgbWFudWFsIGNhbGxiYWNrIGRpc3BhdGNoLCB5b3UgbXVzdCBOT1QgdXNlOgovLwovLyAtIFN0ZWFtQVBJX1J1bkNhbGxiYWNrcyBvciBTdGVhbUdhbWVTZXJ2ZXJfUnVuQ2FsbGJhY2tzCi8vIC0gU1RFQU1fQ0FMTEJBQ0ssIENDYWxsUmVzdWx0LCBDQ2FsbGJhY2ssIG9yIENDYWxsYmFja01hbnVhbAovLwovLyBIZXJlIGlzIHRoZSBiYXNpYyB0ZW1wbGF0ZSBmb3IgcmVwbGFjaW5nIFN0ZWFtQVBJX1J1bkNhbGxiYWNrcygpIHdpdGggbWFudWFsIGRpc3BhdGNoCi8qKgpgYGBjKysKCUhTdGVhbVBpcGUgaFN0ZWFtUGlwZSA9IFN0ZWFtQVBJX0dldEhTdGVhbVBpcGUoKTsgLy8gU2VlIGFsc28gU3RlYW1HYW1lU2VydmVyX0dldEhTdGVhbVBpcGUoKQoJU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfUnVuRnJhbWUoIGhTdGVhbVBpcGUgKQoJQ2FsbGJhY2tNc2dfdCBjYWxsYmFjazsKCXdoaWxlICggU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0TmV4dENhbGxiYWNrKCBoU3RlYW1QaXBlLCAmY2FsbGJhY2sgKSApCgl7CgkJLy8gQ2hlY2sgZm9yIGRpc3BhdGNoaW5nIEFQSSBjYWxsIHJlc3VsdHMKCQlpZiAoIGNhbGxiYWNrLm1faUNhbGxiYWNrID09IFN0ZWFtQVBJQ2FsbENvbXBsZXRlZF90OjprX2lDYWxsYmFjayApCgkJewoJCQlTdGVhbUFQSUNhbGxDb21wbGV0ZWRfdCAqcENhbGxDb21wbGV0ZWQgPSAoU3RlYW1BUElDYWxsQ29tcGxldGVkX3QgKiljYWxsYmFjay0+bV9wdWJQYXJhbTsKCQkJdm9pZCAqcFRtcENhbGxSZXN1bHQgPSBtYWxsb2MoIHBDYWxsQ29tcGxldGVkLT5tX2N1YlBhcmFtICk7CgkJCWJvb2wgYkZhaWxlZDsKCQkJaWYgKCBTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9HZXRBUElDYWxsUmVzdWx0KCBoU3RlYW1QaXBlLCBwQ2FsbENvbXBsZXRlZC0+bV9oQXN5bmNDYWxsLCBwVG1wQ2FsbFJlc3VsdCwgcENhbGxDb21wbGV0ZWQtPm1fY3ViUGFyYW0sIHBDYWxsQ29tcGxldGVkLT5tX2lDYWxsYmFjaywgJmJGYWlsZWQgKSApCgkJCXsKCQkJCS8vIERpc3BhdGNoIHRoZSBjYWxsIHJlc3VsdCB0byB0aGUgcmVnaXN0ZXJlZCBoYW5kbGVyKHMpIGZvciB0aGUKCQkJCS8vIGNhbGwgaWRlbnRpZmllZCBieSBwQ2FsbENvbXBsZXRlZC0+bV9oQXN5bmNDYWxsCgkJCX0KCQkJZnJlZSggcFRtcENhbGxSZXN1bHQgKTsKCQl9CgkJZWxzZQoJCXsKCQkJLy8gTG9vayBhdCBjYWxsYmFjay5tX2lDYWxsYmFjayB0byBzZWUgd2hhdCBraW5kIG9mIGNhbGxiYWNrIGl0IGlzLAoJCQkvLyBhbmQgZGlzcGF0Y2ggdG8gYXBwcm9wcmlhdGUgaGFuZGxlcihzKQoJCX0KCQlTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9GcmVlTGFzdENhbGxiYWNrKCBoU3RlYW1QaXBlICk7Cgl9CmBgYAoqLwovLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0vLwoKClN0ZWFtQVBJX01hbnVhbERpc3BhdGNoX0luaXQgOjogKCkgI2ZvcmVpZ24gc3RlYW07CgovLy8gUGVyZm9ybSBjZXJ0YWluIHBlcmlvZGljIGFjdGlvbnMgdGhhdCBuZWVkIHRvIGJlIHBlcmZvcm1lZC4KU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfUnVuRnJhbWUgOjogKGhTdGVhbVBpcGU6IEhTdGVhbVBpcGUpICNmb3JlaWduIHN0ZWFtOwoKLy8vIEZldGNoIHRoZSBuZXh0IHBlbmRpbmcgY2FsbGJhY2sgb24gdGhlIGdpdmVuIHBpcGUsIGlmIGFueS4gIElmIGEgY2FsbGJhY2sgaXMgYXZhaWxhYmxlLCB0cnVlIGlzIHJldHVybmVkCi8vLyBhbmQgdGhlIHN0cnVjdHVyZSBpcyBwb3B1bGF0ZWQuICBJbiB0aGlzIGNhc2UsIHlvdSBNVVNUIGNhbGwgU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfRnJlZUxhc3RDYWxsYmFjawovLy8gKGFmdGVyIGRpc3BhdGNoaW5nIHRoZSBjYWxsYmFjaykgYmVmb3JlIGNhbGxpbmcgU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0TmV4dENhbGxiYWNrIGFnYWluLgpTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9HZXROZXh0Q2FsbGJhY2sgOjogKGhTdGVhbVBpcGU6IEhTdGVhbVBpcGUsIHBDYWxsYmFja01zZzogKkNhbGxiYWNrTXNnX3QpIC0+IGJvb2wgI2ZvcmVpZ24gc3RlYW07CgovLy8gWW91IG11c3QgY2FsbCB0aGlzIGFmdGVyIGRpc3BhdGNoaW5nIHRoZSBjYWxsYmFjaywgaWYgU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0TmV4dENhbGxiYWNrIHJldHVybnMgdHJ1ZS4KU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfRnJlZUxhc3RDYWxsYmFjayA6OiAoaFN0ZWFtUGlwZTogSFN0ZWFtUGlwZSkgI2ZvcmVpZ24gc3RlYW07CgovLy8gUmV0dXJuIHRoZSBjYWxsIHJlc3VsdCBmb3IgdGhlIHNwZWNpZmllZCBjYWxsIG9uIHRoZSBzcGVjaWZpZWQgcGlwZS4gIFlvdSByZWFsbHkgc2hvdWxkCi8vLyBvbmx5IGNhbGwgdGhpcyBpbiBhIGhhbmRsZXIgZm9yIFN0ZWFtQVBJQ2FsbENvbXBsZXRlZF90IGNhbGxiYWNrLgpTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9HZXRBUElDYWxsUmVzdWx0IDo6IChoU3RlYW1QaXBlOiBIU3RlYW1QaXBlLCBoU3RlYW1BUElDYWxsOiBTdGVhbUFQSUNhbGxfdCwgcENhbGxiYWNrOiAqdm9pZCwgY3ViQ2FsbGJhY2s6IGludCwgaUNhbGxiYWNrRXhwZWN0ZWQ6IGludCwgcGJGYWlsZWQ6ICpib29sKSAtPiBib29sICNmb3JlaWduIHN0ZWFtOwoKCgovLyBKYWkgYWRkaXRpb25zIG5vdCBpbiB0aGUgc3RhbmRhcmQgU3RlYW13b3JrcyBBUEkgZm9sbG93CgoKLyoqCiMgQ2FsbGJhY2sgTWVzc2FnZSBMb29wCgpZb3UgY2FuIHByb2Nlc3MgdGhlIGNhbGxiYWNrIG1lc3NhZ2UgbG9vcCB1c2luZyBhIGBmb3JgLCBieSBsb29waW5nIG9uCmVpdGhlciBgU3RlYW1BUElfQ2FsbGJhY2tzYCBvciBgU3RlYW1HYW1lU2VydmVyX0NhbGxiYWNrc2AuCgpGb3IgZXhhbXBsZToKYGBgCmZvciBtZXNzYWdlLCBpc19jYWxsX3Jlc3VsdDogU3RlYW1BUElfQ2FsbGJhY2tzIHsKCWlmIGlzX2NhbGxfcmVzdWx0IHsKCQlwcmludCgiXG5IYW5kbGluZyBjYWxsIHJlc3VsdCAlXG4iLCBmb3JtYXRJbnQobWVzc2FnZS5jYWxsZXIsIGJhc2U9MTYpKTsKCQlpZiBtZXNzYWdlLmNhbGxfcmVzdWx0X2lkID09IHsKCQkJY2FzZSAuTnVtYmVyT2ZDdXJyZW50UGxheWVyc190OwoJCQlpZiAhbWVzc2FnZS5pb19mYWlsdXJlIHsKCQkJCW51bWJlcl9vZl9jdXJyZW50X3BsYXllcnMgOj0gPDwgY2FzdCgqTnVtYmVyT2ZDdXJyZW50UGxheWVyc190KSBtZXNzYWdlLmRhdGE7CgkJCQlpZiBudW1iZXJfb2ZfY3VycmVudF9wbGF5ZXJzLm1fYlN1Y2Nlc3MKCQkJCQlwcmludCgiTnVtIFBsYXllcnM6ICVcbiIsIG51bWJlcl9vZl9jdXJyZW50X3BsYXllcnMubV9jUGxheWVycyk7CgkJCQllbHNlCgkJCQkJcHJpbnQoIkZhaWxlZCB0byBnZXQgTnVtIFBsYXllcnNcbiIpOwoJCQl9CgkJCWVsc2UgewoJCQkJcHJpbnQoIklPIEZhaWx1cmUgd2hpbGUgdHJ5aW5nIHRvIGdldCBOdW0gUGxheWVyc1xuIik7CgkJCX0KCQl9Cgl9CgllbHNlIHsKCQlpZiBtZXNzYWdlLmNhbGxiYWNrX2lkID09IHsKCQkJY2FzZSAuR2FtZU92ZXJsYXlBY3RpdmF0ZWRfdDsKCQkJaW5mbyA6PSBjYXN0KCpHYW1lT3ZlcmxheUFjdGl2YXRlZF90KSBtZXNzYWdlLmRhdGE7CgkJCXByaW50KCJcbi0tLVxuT3ZlcmxheSBhY3RpdmU6ICVcbiIsIGNhc3QoYm9vbCkgaW5mby5tX2JBY3RpdmUpOwoJCQlzdGVhbV91c2Vyc3RhdHMgOj0gU3RlYW1BUElfU3RlYW1Vc2VyU3RhdHNfdjAxMigpOwoJCQloYW5kbGUgOj0gU3RlYW1BUElfSVN0ZWFtVXNlclN0YXRzX0dldE51bWJlck9mQ3VycmVudFBsYXllcnMoc3RlYW1fdXNlcnN0YXRzKTsKCQkJcHJpbnQoIlJlcXVlc3RpbmcgI3BsYXllcnMsIGhhbmRsZSA9ICVcbiIsIGZvcm1hdEludChoYW5kbGUsIGJhc2U9MTYpKTsKCQl9Cgl9Cn0KYGBgCiovCgoKU3RlYW1BUElfQ2FsbGJhY2tNZXNzYWdlIDo6IHN0cnVjdCB7Cgl1bmlvbiB7CgkJbV9pQ2FsbGJhY2sgOiBzMzI7CgkJY2FsbGJhY2tfaWQgOiBDYWxsYmFja0lEOwoJCWNhbGxfcmVzdWx0X2lkIDogQ2FsbFJlc3VsdElEOwoJfQoJdW5pb24gewoJCW1faEFzeW5jQ2FsbCA6IFN0ZWFtQVBJQ2FsbF90OwoJCWNhbGxlciA6ICBTdGVhbUFQSUNhbGxfdDsKCX0KCWRhdGEgOiAqdm9pZDsKCWNhbGxiYWNrIDogKkNhbGxiYWNrTXNnX3Q7CgljYWxsX3Jlc3VsdCA6ICpTdGVhbUFQSUNhbGxDb21wbGV0ZWRfdDsKCWlvX2ZhaWx1cmUgOiBib29sOwp9CgpTdGVhbUFQSV9HZXRIU3RlYW1QaXBlIDo6ICgpIC0+IEhTdGVhbVBpcGUgI2ZvcmVpZ24gc3RlYW07ClN0ZWFtR2FtZVNlcnZlcl9HZXRIU3RlYW1QaXBlIDo6ICgpICAtPiBIU3RlYW1QaXBlICNmb3JlaWduIHN0ZWFtOwoKClN0ZWFtQVBJX0NhbGxiYWNrcyA6IHN0cnVjdCB7fTsKZm9yX2V4cGFuc2lvbiA6OiAoXzogKnR5cGVfb2YoU3RlYW1BUElfQ2FsbGJhY2tzKSwgYm9keTogQ29kZSwgZmxhZ3M6IEZvcl9GbGFncykgI2V4cGFuZCB7CglzdGVhbV9waXBlIDo9IFN0ZWFtQVBJX0dldEhTdGVhbVBpcGUoKTsKCSNpbnNlcnQsc2NvcGUoKSBmb3JfZXhwYW5zaW9uX21lc3NhZ2VfbG9vcDsKfQoKClN0ZWFtR2FtZVNlcnZlcl9DYWxsYmFja3MgOiBzdHJ1Y3Qge307CmZvcl9leHBhbnNpb24gOjogKF86ICp0eXBlX29mKFN0ZWFtR2FtZVNlcnZlcl9DYWxsYmFja3MpLCBib2R5OiBDb2RlLCBmbGFnczogRm9yX0ZsYWdzKSAjZXhwYW5kIHsKCXN0ZWFtX3BpcGUgOj0gU3RlYW1HYW1lU2VydmVyX0dldEhTdGVhbVBpcGUoKTsKCSNpbnNlcnQsc2NvcGUoKSBmb3JfZXhwYW5zaW9uX21lc3NhZ2VfbG9vcDsKfQoKCiNzY29wZV9tb2R1bGUKCgpmb3JfZXhwYW5zaW9uX21lc3NhZ2VfbG9vcCA6OiAjY29kZSB7CgkjYXNzZXJ0KGZsYWdzID09IDApOyAvLyBubyBvcHRpb25zIGFyZSBzdXBwb3J0ZWQKCglgaXQgOiBTdGVhbUFQSV9DYWxsYmFja01lc3NhZ2U7CglgaXRfaW5kZXggOiBib29sOwoKCVN0ZWFtQVBJX01hbnVhbERpc3BhdGNoX1J1bkZyYW1lKHN0ZWFtX3BpcGUpOwoKCWNhbGxiYWNrOiBDYWxsYmFja01zZ190OwoKCXdoaWxlIFN0ZWFtQVBJX01hbnVhbERpc3BhdGNoX0dldE5leHRDYWxsYmFjayhzdGVhbV9waXBlLCAqY2FsbGJhY2spIHsKCQlkZWZlciBTdGVhbUFQSV9NYW51YWxEaXNwYXRjaF9GcmVlTGFzdENhbGxiYWNrKHN0ZWFtX3BpcGUpOwoKCQlpZiBjYWxsYmFjay5tX2lDYWxsYmFjayA9PSBTdGVhbUFQSUNhbGxDb21wbGV0ZWRfdC5rX2lDYWxsYmFjayB7CgkJCWNvbXBsZXRlZF9jYWxsX3Jlc3VsdCA6PSBjYXN0KCpTdGVhbUFQSUNhbGxDb21wbGV0ZWRfdCkgY2FsbGJhY2subV9wdWJQYXJhbTsKCgkJCWNhbGxfcmVzdWx0IDogKnZvaWQ7CgkJCSNpZiB1c2VfdGVtcG9yYXJ5X3N0b3JhZ2UgewoJCQkJY2FsbF9yZXN1bHQgPSB0ZW1wb3JhcnlfYWxsb2MoY29tcGxldGVkX2NhbGxfcmVzdWx0Lm1fY3ViUGFyYW0pOwoJCQl9CgkJCWVsc2UgewoJCQkJY2FsbF9yZXN1bHQgPSBhbGxvYyhjb21wbGV0ZWRfY2FsbF9yZXN1bHQubV9jdWJQYXJhbSk7CgkJCQlkZWZlciBmcmVlKGNhbGxfcmVzdWx0KTsKCQkJfQoKCQkJaW9fZmFpbHVyZSA6PSBmYWxzZTsKCQkJaWYgU3RlYW1BUElfTWFudWFsRGlzcGF0Y2hfR2V0QVBJQ2FsbFJlc3VsdCgKCQkJCXN0ZWFtX3BpcGUsIGNvbXBsZXRlZF9jYWxsX3Jlc3VsdC5tX2hBc3luY0NhbGwsIGNhbGxfcmVzdWx0LCBjb21wbGV0ZWRfY2FsbF9yZXN1bHQubV9jdWJQYXJhbSwgY29tcGxldGVkX2NhbGxfcmVzdWx0Lm1faUNhbGxiYWNrLCAqaW9fZmFpbHVyZSkKCQkJewoJCQkJaXQubV9pQ2FsbGJhY2sgPSBjb21wbGV0ZWRfY2FsbF9yZXN1bHQubV9pQ2FsbGJhY2s7CgkJCQlpdC5tX2hBc3luY0NhbGwgPSBjb21wbGV0ZWRfY2FsbF9yZXN1bHQubV9oQXN5bmNDYWxsOwoJCQkJaXQuZGF0YSA9IGNhbGxfcmVzdWx0OwoJCQkJaXQuY2FsbGJhY2sgPSAqY2FsbGJhY2s7CgkJCQlpdC5jYWxsX3Jlc3VsdCA9IGNvbXBsZXRlZF9jYWxsX3Jlc3VsdDsKCQkJCWl0LmlvX2ZhaWx1cmUgPSBpb19mYWlsdXJlOwoJCQkJaXRfaW5kZXggPSB0cnVlOwoKCQkJCS8vI2luc2VydCAoYnJlYWsgPSAjYXNzZXJ0KGZhbHNlKSkgYm9keTsgLy8gQFRPRE8KCQkJCSNpbnNlcnQgYm9keTsKCQkJfQoKCQkJLy8jaWYgIXVzZV90ZW1wb3Jhcnlfc3RvcmFnZSAgZnJlZShjYWxsX3Jlc3VsdCk7CgkJfQoJCWVsc2UgewoJCQlpdC5tX2lDYWxsYmFjayA9IGNhbGxiYWNrLm1faUNhbGxiYWNrOwoJCQlpdC5kYXRhID0gY2FsbGJhY2subV9wdWJQYXJhbTsKCQkJaXQuY2FsbGJhY2sgPSAqY2FsbGJhY2s7CgkJCWl0X2luZGV4ID0gZmFsc2U7CgoJCQkvLyNpbnNlcnQgKGJyZWFrID0gI2Fzc2VydChmYWxzZSkpIGJvZHk7IC8vIEBUT0RPCgkJCSNpbnNlcnQgYm9keTsKCQl9Cgl9Cn07CgoKU3RlYW1BUElfSW5pdF9JbnRlcm5hbCA6OiAoKSAtPiBib29sICNmb3JlaWduIHN0ZWFtICJTdGVhbUFQSV9Jbml0IjsKCgojaWYgT1MgPT0gLldJTkRPV1MgewogICAgc3RlYW0gOjogI2xpYnJhcnkgImxpYi93aW4vc3RlYW1fYXBpNjQiOwp9IGVsc2UgI2lmIE9TID09IC5NQUNPUyB7CiAgICBzdGVhbSA6OiAjbGlicmFyeSAibGliL21hYy9saWJzdGVhbV9hcGkiOwp9IGVsc2UgI2lmIE9TID09IC5MSU5VWCB7CiAgICBzdGVhbSA6OiAjbGlicmFyeSAibGliL2xpbnV4L2xpYnN0ZWFtX2FwaSI7Cn0KCiNpbXBvcnQgIkJhc2ljIjsKCiNsb2FkICJzcmMtYXV0b2dlbi9hcGlfZmxhdC5qYWkiOwoAAAAAAAAAAKYsAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+CAAAAAAAAD4IAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "generate_files.jai",
+			"settings":
+			{
+				"buffer_size": 45273,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "sdk/steamworksexample/SpaceWarServer.cpp",
+			"settings":
+			{
+				"buffer_size": 37562,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "README.jai",
+			"settings":
+			{
+				"buffer_size": 8056,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "example/spacewar.jai",
+			"settings":
+			{
+				"buffer_size": 53892,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "Searching 351 files for \"initgameserver\"\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\public\\steam\\isteamgameserver.h:\n   26  \n   27  \t/// This is called by SteamGameServer_Init, and you will usually not need to call it directly\n   28: \tSTEAM_PRIVATE_API( virtual bool InitGameServer( uint32 unIP, uint16 usGamePort, uint16 usQueryPort, uint32 unFlags, AppId_t nGameAppId, const char *pchVersionString ) = 0; )\n   29  \n   30  \t/// Game product identifier.  This is currently used by the master server for version checking purposes.\n\n1 match in 1 file\n\n\nSearching 351 files for \"SteamGameServer_Init\"\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\example\\steam_api64.dll:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\lib\\linux\\libsteam_api.so:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\lib\\mac\\libsteam_api.dylib:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\lib\\win\\steam_api64.dll:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\lib\\win\\steam_api64.lib:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\Readme.txt:\n  295  Starting with this release, SDK forward-compatibility has been improved. All executables and libraries built using the official C++ headers from this SDK will continue to work even when paired with runtime DLLs from future SDKs. This will eventually allow for the mixing of dynamic libraries (such as third-party plug-ins) built with different versions of Steamworks.\n  296  \n  297: The VERSION_SAFE_STEAM_API_INTERFACES compile-time flag is no longer necessary for cross-version compatibility, and the SteamAPI_InitSafe and SteamGameServer_InitSafe functions have been removed. Applications which currently use these InitSafe functions should be changed to use the normal Init functions instead.\n  298  \n  299  \n  ...\n  647  Game Servers\n  648  * Removed the ISteamMasterServerUpdater interface.  It has been merged into the ISteamGameServer interface, which is used to communicate all game server state changes.\n  649: * Significant changes to the game server init sequence.  (See the comments for SteamGameServer_Init  and the ISteamGameServer interface.)\n  650  * Removed interface to legacy master server mode\n  651  * Groundwork for implementing named steam accounts for game servers\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\public\\steam\\isteamgameserver.h:\n   25  //\n   26  \n   27: \t/// This is called by SteamGameServer_Init, and you will usually not need to call it directly\n   28  \tSTEAM_PRIVATE_API( virtual bool InitGameServer( uint32 unIP, uint16 usGamePort, uint16 usQueryPort, uint32 unFlags, AppId_t nGameAppId, const char *pchVersionString ) = 0; )\n   29  \n   ..\n   59  \t/// Login to a generic, anonymous account.\n   60  \t///\n   61: \t/// Note: in previous versions of the SDK, this was automatically called within SteamGameServer_Init,\n   62  \t/// but this is no longer the case.\n   63  \tvirtual void LogOnAnonymous() = 0;\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\public\\steam\\steam_gameserver.h:\n   23  };\t\t\t\t\t\t\t\t\t\t\t\t\t\n   24  \n   25: /// Pass to SteamGameServer_Init to indicate that the same UDP port will be used for game traffic\n   26  /// UDP queries.  In this case, Steam will not open up a socket to handle server browser queries,\n   27  /// and you must use ISteamGameServer::HandleIncomingPacket and ISteamGameServer::GetNextOutgoingPacket\n   ..\n   45  // - The version string should be in the form x.x.x.x, and is used by the master server to detect when the\n   46  //\t\tserver is out of date.  (Only servers with the latest version will be listed.)\n   47: inline bool SteamGameServer_Init( uint32 unIP, uint16 usGamePort, uint16 usQueryPort, EServerMode eServerMode, const char *pchVersionString );\n   48  \n   49  // Shutdown SteamGameSeverXxx interfaces, log out, and free resources.\n   ..\n   65  //S_API ISteamClient *g_pSteamClientGameServer;\n   66  \n   67: // SteamGameServer_InitSafe has been replaced with SteamGameServer_Init and\n   68: // is no longer supported. Use SteamGameServer_Init instead.\n   69: //S_API void S_CALLTYPE SteamGameServer_InitSafe();\n   70  \n   71  //=============================================================================\n   ..\n  100  \n  101  S_API bool S_CALLTYPE SteamInternal_GameServer_Init( uint32 unIP, uint16 usLegacySteamPort, uint16 usGamePort, uint16 usQueryPort, EServerMode eServerMode, const char *pchVersionString );\n  102: inline bool SteamGameServer_Init( uint32 unIP, uint16 usGamePort, uint16 usQueryPort, EServerMode eServerMode, const char *pchVersionString )\n  103  {\n  104  \tif ( !SteamInternal_GameServer_Init( unIP, 0, usGamePort, usQueryPort, eServerMode, pchVersionString ) )\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\steam_api.dll:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\steam_api.lib:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\linux32\\libsteam_api.so:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\linux64\\libsteam_api.so:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\osx\\libsteam_api.dylib:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\win64\\steam_api64.dll:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\redistributable_bin\\win64\\steam_api64.lib:\n    <binary>\n\nC:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\steamworksexample\\SpaceWarServer.cpp:\n   38  \t// !FIXME! We need a way to pass the dedicated server flag here!\n   39  \n   40: \tif ( !SteamGameServer_Init( unIP, SPACEWAR_SERVER_PORT, usMasterServerUpdaterPort, eMode, SPACEWAR_SERVER_VERSION ) )\n   41  \t{\n   42: \t\tOutputDebugString( \"SteamGameServer_Init call failed\\n\" );\n   43  \t}\n   44  \n\n42 matches across 16 files\n",
+			"settings":
+			{
+				"buffer_size": 5680,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "sdk/public/steam/isteamgameserver.h",
+			"settings":
+			{
+				"buffer_size": 15674,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "sdk/public/steam/steam_gameserver.h",
+			"settings":
+			{
+				"buffer_size": 5420,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src-autogen/steam_game_server_utils.jai",
+			"settings":
+			{
+				"buffer_size": 6304,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src-autogen/steam_game_server_networking_sockets.jai",
+			"settings":
+			{
+				"buffer_size": 10110,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src-autogen/partial_steam_callbacks.jai",
+			"settings":
+			{
+				"buffer_size": 209029,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src-autogen/api_flat.jai",
+			"redo_stack":
+			[
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAALCdAgAAAAAAsZ0CAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsJ0CAAAAAACwnQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "w"
+					},
+					"AQAAALCdAgAAAAAAsJ0CAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAAsZ0CAAAAAACxnQIAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 339522,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/build.jai",
+			"settings":
+			{
+				"buffer_size": 2337,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src-autogen/steam_client.jai",
+			"settings":
+			{
+				"buffer_size": 7096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/steam_client_header.jai",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src-autogen/api_flat_procs_exposed.jai",
+			"settings":
+			{
+				"buffer_size": 186583,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sdk/steamworksexample/SpaceWarClient.cpp",
+			"settings":
+			{
+				"buffer_size": 87493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "sdk/steamworksexample/GameEngine.h",
+			"settings":
+			{
+				"buffer_size": 8376,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sdk/steamworksexample/Main.cpp",
+			"settings":
+			{
+				"buffer_size": 12491,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "sdk/steamworksexample/SpaceWar.h",
+			"settings":
+			{
+				"buffer_size": 15032,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/d3d_shader.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JAI.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JAI_generic.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JAI.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				":theem",
+				"UI: Customize Theme"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme ",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"renmae",
+				"Rename File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				":install p",
+				"Package Control: Install Package"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"resoruce",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sublime tut",
+				"Sublime Tutor: Start"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				":extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				":remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				":package",
+				"Package Control: List Packages"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"distra",
+				"Preferences: Settings – Distraction Free"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"preferences",
+				"Preferences: Settings – Distraction Free"
+			],
+			[
+				"expand",
+				"Selection: Expand to Word"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"buildview",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"buildvi",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"toggle men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"distract",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Jai"
+			],
+			[
+				"git",
+				"Set Syntax: Git Log"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"move ",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"move",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"origami",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"destro",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origam",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"mark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"hexvi",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"hexview",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"packageresou",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package controll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)",
+			"list",
+			"help",
+			"?",
+			"commands",
+			"call",
+			"cmd",
+			"pip",
+			"subl",
+			"Testt",
+			"view.run_command(\"example\")",
+			"view.run_command(\"ExampleCommand\")",
+			"view.run_command(\"copy_line\")",
+			"view.run_command(\"copy-line\")",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/rando/dev/mountain/modules/Steam",
+		"/C/rando/dev/mountain/modules/Steam/sdk",
+		"/C/rando/dev/mountain/modules/Steam/sdk/public",
+		"/C/rando/dev/mountain/modules/Steam/sdk/public/steam",
+		"/C/rando/dev/mountain/modules/Steam/src"
+	],
+	"file_history":
+	[
+		"/C/rando/dev/mountain/modules/Steam/example/spacewar.jai",
+		"/C/rando/dev/mountain/modules/Steam/src/json.jai",
+		"/C/rando/dev/mountain/modules/Steam/sdk/public/steam/steam_api_internal.h",
+		"/C/rando/dev/mountain/sauce/arcane/GameNetworkingSockets.jai",
+		"/C/rando/dev/mountain/modules/GameNetworkingSockets/gns.h",
+		"/C/Users/randy/Downloads/test_common.h",
+		"/C/rando/dev/mountain/sauce/network.jai",
+		"/C/rando/dev/mountain/modules/MetaDesk/module.jai",
+		"/C/rando/dev/jai/modules/ImGui/module.jai",
+		"/C/rando/dev/mountain/modules/GameNetworkingSockets/module.jai",
+		"/C/rando/dev/jai/modules/ImGui/windows.jai",
+		"/C/rando/dev/mountain/modules/GameNetworkingSockets/test.jai",
+		"/C/rando/dev/mountain/modules/GameNetworkingSockets/examples/chatroom/chat_window.jai",
+		"/C/Users/randy/AppData/Local/Temp/Tempee724839-edd5-412d-8b5a-1d4108132c96_gns-jai-main.zip/gns-jai-main/gns.h",
+		"/C/rando/dev/jai/modules/Bindings_Generator/module.jai",
+		"/C/rando/dev/mountain/sauce/profile.jai",
+		"/C/rando/dev/mountain/sauce/common.jai",
+		"/C/rando/dev/mountain/sauce/arcane/.build/.added_strings_w2.jai",
+		"/C/rando/dev/mountain/sauce/arcane/server.aji",
+		"/C/rando/dev/mountain/sauce/arcane/main.jai",
+		"/C/rando/dev/mountain/readme.md",
+		"/C/rando/dev/jai/how_to/495_default_metaprogram.jai",
+		"/C/rando/dev/mountain/sauce/arcane/.build/.added_strings_w3.jai",
+		"/C/rando/dev/jai/modules/System.jai",
+		"/C/rando/dev/jai/modules/Minimal_Metaprogram.jai",
+		"/C/rando/dev/jai/modules/Default_Metaprogram.jai",
+		"/C/rando/dev/jai/modules/Socket/generated_windows.jai",
+		"/C/rando/dev/jai/modules/Socket/module.jai",
+		"/C/rando/dev/mountain/sauce/arcane/res/generate.mdesk",
+		"/C/rando/dev/jai/modules/pl_mpeg/audio.jai",
+		"/C/rando/dev/jai/examples/d3d11_example/d3d11_example.jai",
+		"/C/rando/dev/jai/modules/d3d11/d3d11_bindings.jai",
+		"/C/rando/dev/mountain/sauce/arcane/metadata.jai",
+		"/C/rando/dev/focus/first.jai",
+		"/C/Users/randy/Desktop/Simp/immediate.jai",
+		"/C/Users/randy/Desktop/Simp/module.jai",
+		"/C/Users/randy/Desktop/Simp/font.jai",
+		"/C/Users/randy/Desktop/Runtime_Support.jai",
+		"/C/rando/dev/mountain/modules/Simp/font.jai",
+		"/C/rando/dev/mountain/modules/Runtime_Support.jai",
+		"/C/rando/dev/jai/modules/Default_Allocator/module.jai",
+		"/C/rando/dev/jai/modules/Runtime_Support.jai",
+		"/C/rando/dev/jai/modules/Windows.jai",
+		"/C/rando/dev/jai/modules/Machine_X64.jai",
+		"/C/rando/dev/mountain/modules/Spall/module.jai",
+		"/C/rando/dev/mountain/sauce/metadesk_helpers.jai",
+		"/C/rando/dev/jai/modules/Wav_File.jai",
+		"/C/rando/dev/jai/modules/Preload.jai",
+		"/C/rando/dev/mountain/sauce/arcane/arena.jai",
+		"/C/rando/dev/jai/modules/Input/module.jai",
+		"/C/rando/dev/jai/modules/Simp/bitmap.jai",
+		"/C/rando/dev/jai/modules/dxgi/dxgi_bindings.jai",
+		"/C/rando/dev/jai/modules/Basic/Array.jai",
+		"/C/rando/dev/jai/modules/File/module.jai",
+		"/C/rando/dev/jai/modules/File/windows.jai",
+		"/C/rando/dev/jai/modules/Basic/module.jai",
+		"/C/rando/dev/jai/modules/Basic/Print.jai",
+		"/C/rando/dev/jai/modules/Hash_Table.jai",
+		"/C/rando/dev/jai/modules/Math/cephes.jai",
+		"/C/rando/dev/jai/modules/Math/module.jai",
+		"/C/rando/dev/jai/modules/File_Utilities/os/windows.jai",
+		"/C/rando/dev/jai/modules/Basic/Simple_String.jai",
+		"/C/rando/dev/jai/modules/String/module.jai",
+		"/C/Users/randy/Documents/Visual Studio 2019/Visualizers/jai.natvis",
+		"/C/rando/dev/jai/modules/Hash.jai",
+		"/C/rando/dev/jai/modules/Random.jai",
+		"/C/rando/dev/mountain/sauce/arcane/res/res.mdesk",
+		"/C/rando/dev/mountain/modules/MetaDesk/md.h",
+		"/C/rando/dev/mountain/modules/MetaDesk/md.c",
+		"/C/rando/dev/mountain/modules/Spall/spall.c",
+		"/C/rando/dev/jai/modules/BuildCpp.jai",
+		"/C/rando/dev/mountain/modules/Spall/spall.h",
+		"/C/rando/dev/jai/modules/Basic/windows.jai",
+		"/C/Users/randy/AppData/Roaming/Aseprite/scripts/Tags-To-Sheets.lua",
+		"/C/rando/dev/mountain/.gitattributes",
+		"/C/rando/dev/mountain/sauce/arcane/test.jai",
+		"/C/rando/dev/mountain/sauce/arcane/graveyard.jai",
+		"/C/rando/dev/mountain/sauce/arcane/config.jai",
+		"/C/rando/dev/mountain/readme.txt",
+		"/C/rando/dev/mountain/proj/arcane/res/res.mdesk",
+		"/C/rando/dev/mountain/proj/arcane/res/generate.mdesk",
+		"/C/rando/dev/mountain/proj/arcane/render.jai",
+		"/C/rando/dev/mountain/proj/arcane/resource.jai",
+		"/C/rando/dev/mountain/proj/arcane/main.jai",
+		"/C/rando/dev/jaitime/.gitignore",
+		"/C/rando/dev/jaitime/arcane/data.mdesk",
+		"/C/rando/dev/jaitime/arcane/linked.jai",
+		"/C/rando/dev/jaitime/modules/Simp/font.jai",
+		"/C/rando/dev/jaitime/imui.jai",
+		"/C/rando/dev/jaitime/recycle.jai",
+		"/C/rando/dev/jaitime/arcane/graveyard.jai",
+		"/C/rando/dev/jaitime/modules/MetaDesk/md.c",
+		"/C/rando/dev/jaitime/modules/MetaDesk/md.h",
+		"/C/rando/dev/jaitime/modules/MetaDesk/module.jai",
+		"/C/rando/dev/jaitime/modules/Sokol/c/sokol/util/sokol_color.h",
+		"/C/rando/dev/jaitime/metadesk_helpers.jai",
+		"/C/rando/dev/jaitime/modules/Simp/bitmap.jai",
+		"/C/rando/dev/jaitime/arcane/resource.jai",
+		"/C/rando/dev/jaitime/arcane/res/res.mdesk",
+		"/C/rando/dev/jaitime/arcane/render.jai",
+		"/C/rando/dev/jaitime/arcane/res/generate.mdesk",
+		"/C/rando/dev/jaitime/arcane/config.jai",
+		"/C/rando/dev/jaitime/arcane/sound.jai",
+		"/C/rando/dev/jaitime/arcane/main.jai",
+		"/C/rando/dev/jaitime/arcane/res/shaders/shader.hlsl",
+		"/C/rando/dev/jaitime/randy/d3dshader/shader.hlsl",
+		"/C/Users/randy/AppData/Roaming/Sublime Text/Packages/User/d3d_shader.sublime-build",
+		"/C/rando/dev/jaitime/arcane/res/shader.hlsl",
+		"/C/rando/dev/jaitime/arcane/shader.hlsl",
+		"/C/rando/dev/jaitime/arcane/shader.txt",
+		"/C/rando/dev/jaitime/arcane/shader.jai",
+		"/C/rando/dev/jai/how_to/019_looping.jai",
+		"/C/rando/dev/jaitime/arcane/docs/layer_config.md",
+		"/C/rando/dev/jaitime/arcane/res/generate/generate.mdesk",
+		"/C/rando/dev/jai/how_to/120_polymorphic_structs.jai",
+		"/C/rando/dev/jai/how_to/730_for_expansions.jai",
+		"/C/rando/dev/jaitime/modules/MetaDesk/metadesk_helpers.jai",
+		"/C/rando/dev/jai/modules/Compiler/Compiler.jai",
+		"/C/rando/dev/jai/examples/hash_table_test.jai",
+		"/G/My Drive/randy_cloud/dev_sync/arcane.vcxproj",
+		"/G/My Drive/randy_cloud/dev_sync/arcane.sln",
+		"/C/Users/randy/Desktop/sublime/Data/Packages/Vintage/Default.sublime-keymap",
+		"/C/Users/randy/Desktop/sublime/Data/Packages/Vintage/Default (Windows).sublime-keymap",
+		"/C/randy/dev/jaitime/imui.jai",
+		"/C/randy/dev/jaitime/arcane/main.jai",
+		"/C/randy/dev/jaitime/recycle.jai",
+		"/C/rando/jai/jai-beta/modules/Basic/module.jai",
+		"/C/rando/jai/jaitime/arcane/.build/.added_strings_w2.jai"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+			"",
+			"C:\\rando\\dev\\mountain\\modules\\Steam\\sdk\\steamworksexample",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"steam_api.h",
+			"SteamGameServer_Init",
+			"initgameserver",
+			"serverinit",
+			"m_hListenSocket",
+			"CreateListenSocketP2P",
+			"identi",
+			"SteamNetworkingIdentity",
+			"ConnectP2P",
+			"16994230852859110826",
+			"1296",
+			"2101",
+			"1296",
+			"warning",
+			"failed",
+			"Failed to get",
+			"Recieved CallResult",
+			"Recieved",
+			"OnNetConnectionStatusChanged",
+			"createlisten",
+			"ConnectByIP",
+			"sendmess",
+			"connect",
+			"verbose",
+			"SteamInternal_CreateInterface",
+			"expose_raw_calls",
+			"SteamAPIDebugTextHook"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "module.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "steam.jai",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1512,
+								1512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "steam_flat.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8440,
+								8440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "generate_files.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sdk/steamworksexample/SpaceWarServer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1349,
+								1369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "README.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5234,
+								5234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "example/spacewar.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47770,
+								47770
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5680,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										265,
+										279
+									],
+									[
+										1561,
+										1581
+									],
+									[
+										2036,
+										2056
+									],
+									[
+										2348,
+										2368
+									],
+									[
+										2767,
+										2787
+									],
+									[
+										3000,
+										3020
+									],
+									[
+										3531,
+										3551
+									],
+									[
+										3827,
+										3847
+									],
+									[
+										3875,
+										3895
+									],
+									[
+										3938,
+										3958
+									],
+									[
+										3999,
+										4019
+									],
+									[
+										4350,
+										4370
+									],
+									[
+										5444,
+										5464
+									],
+									[
+										5595,
+										5615
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sdk/public/steam/isteamgameserver.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sdk/public/steam/steam_gameserver.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4840,
+								4869
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src-autogen/steam_game_server_utils.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src-autogen/steam_game_server_networking_sockets.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src-autogen/partial_steam_callbacks.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 209029,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										16081,
+										16081
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src-autogen/api_flat.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146809,
+								146809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/build.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2125,
+								2125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "src-autogen/steam_client.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "src/steam_client_header.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "src-autogen/api_flat_procs_exposed.jai",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JaiTools/Jai.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "sdk/steamworksexample/SpaceWarClient.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87493,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1593,
+										1593
+									],
+									[
+										2661,
+										2661
+									],
+									[
+										18883,
+										18883
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								18496,
+								18496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8271.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "sdk/steamworksexample/GameEngine.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2396,
+								2396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "sdk/steamworksexample/Main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12491,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										7191,
+										7191
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								5798,
+								5798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1932.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "sdk/steamworksexample/SpaceWar.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1167,
+								1167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 134.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "Packages/User/JAI.sublime-build",
+	"project": "steam.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spacewar",
+				"sdk\\steamworksexample\\SpaceWarServer.cpp"
+			],
+			[
+				"spacewarser",
+				"sdk\\steamworksexample\\SpaceWarServer.cpp"
+			],
+			[
+				"steamclien",
+				"src-autogen\\steam_client.jai"
+			],
+			[
+				"api_fla",
+				"src-autogen\\api_flat_procs_exposed.jai"
+			],
+			[
+				"steam module",
+				"mountain\\modules\\Steam\\module.jai"
+			],
+			[
+				"recy",
+				"mountain\\sauce\\recycle.jai"
+			],
+			[
+				"gamenetwor",
+				"mountain\\sauce\\arcane\\GameNetworkingSockets.jai"
+			],
+			[
+				"windows.jai imgu",
+				"jai\\modules\\ImGui\\windows.jai"
+			],
+			[
+				"imgui module",
+				"jai\\modules\\ImGui\\module.jai"
+			],
+			[
+				"metadesk mo",
+				"mountain\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"metadesk",
+				"mountain\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"metadesk modu",
+				"mountain\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"first jai chat",
+				"mountain\\modules\\GameNetworkingSockets\\examples\\chatroom\\first.jai"
+			],
+			[
+				"module game",
+				"mountain\\modules\\GameNetworkingSockets\\module.jai"
+			],
+			[
+				"network",
+				"mountain\\sauce\\network.jai"
+			],
+			[
+				"profi",
+				"mountain\\sauce\\profile.jai"
+			],
+			[
+				"default",
+				"jai\\modules\\Default_Metaprogram.jai"
+			],
+			[
+				"arcanejai",
+				"mountain\\sauce\\arcane\\arcane.jai"
+			],
+			[
+				"read",
+				"mountain\\readme.md"
+			],
+			[
+				"defaultm",
+				"jai\\modules\\Default_Metaprogram.jai"
+			],
+			[
+				"system",
+				"jai\\modules\\System.jai"
+			],
+			[
+				"compiler ",
+				"jai\\modules\\Compiler\\Compiler.jai"
+			],
+			[
+				"metaprogram",
+				"jai\\how_to\\495_default_metaprogram.jai"
+			],
+			[
+				"runtime",
+				"mountain\\modules\\Runtime_Support.jai"
+			],
+			[
+				"grave",
+				"mountain\\sauce\\arcane\\graveyard.jai"
+			],
+			[
+				"gener",
+				"mountain\\sauce\\arcane\\res\\generate.mdesk"
+			],
+			[
+				"ded11",
+				"jai\\examples\\d3d11_example\\d3d11_example.jai"
+			],
+			[
+				"imui",
+				"mountain\\sauce\\imui.jai"
+			],
+			[
+				"sound",
+				"mountain\\sauce\\arcane\\sound.jai"
+			],
+			[
+				"render",
+				"mountain\\sauce\\arcane\\render.jai"
+			],
+			[
+				"resour",
+				"mountain\\sauce\\arcane\\resource.jai"
+			],
+			[
+				"metadata",
+				"mountain\\sauce\\arcane\\metadata.jai"
+			],
+			[
+				"conf",
+				"mountain\\sauce\\arcane\\config.jai"
+			],
+			[
+				"config",
+				"mountain\\sauce\\arcane\\config.jai"
+			],
+			[
+				"font",
+				"mountain\\modules\\Simp\\font.jai"
+			],
+			[
+				"linked",
+				"mountain\\sauce\\arcane\\linked.jai"
+			],
+			[
+				"linke",
+				"mountain\\sauce\\arcane\\linked.jai"
+			],
+			[
+				"basic",
+				"jai\\modules\\Basic\\module.jai"
+			],
+			[
+				"",
+				"mountain\\sauce\\metadesk_helpers.jai"
+			],
+			[
+				"metade",
+				"mountain\\sauce\\metadesk_helpers.jai"
+			],
+			[
+				"defaultll",
+				"jai\\modules\\Default_Allocator\\module.jai"
+			],
+			[
+				"arena",
+				"mountain\\sauce\\arcane\\arena.jai"
+			],
+			[
+				"resource",
+				"mountain\\sauce\\arcane\\resource.jai"
+			],
+			[
+				"defaultallo",
+				"jai\\modules\\Default_Allocator\\module.jai"
+			],
+			[
+				"memory",
+				"jai\\modules\\Basic\\Memory_Debugger.jai"
+			],
+			[
+				"runtiem",
+				"mountain\\modules\\Runtime_Support.jai"
+			],
+			[
+				"font ",
+				"mountain\\modules\\Simp\\font.jai"
+			],
+			[
+				"resou",
+				"mountain\\sauce\\arcane\\resource.jai"
+			],
+			[
+				"recyc",
+				"mountain\\sauce\\recycle.jai"
+			],
+			[
+				"generat",
+				"mountain\\sauce\\arcane\\res\\generate.mdesk"
+			],
+			[
+				"rnadom",
+				"jai\\modules\\Random.jai"
+			],
+			[
+				"array",
+				"jai\\modules\\Basic\\Array.jai"
+			],
+			[
+				"sort",
+				"jai\\modules\\Sort.jai"
+			],
+			[
+				"gen",
+				"mountain\\sauce\\arcane\\res\\generate.mdesk"
+			],
+			[
+				"confi",
+				"mountain\\sauce\\arcane\\config.jai"
+			],
+			[
+				"res",
+				"mountain\\sauce\\arcane\\resource.jai"
+			],
+			[
+				"reso",
+				"mountain\\sauce\\arcane\\resource.jai"
+			],
+			[
+				"imu",
+				"mountain\\sauce\\imui.jai"
+			],
+			[
+				"metada",
+				"mountain\\sauce\\arcane\\metadata.jai"
+			],
+			[
+				"mdesk",
+				"mountain\\sauce\\arcane\\res\\res.mdesk"
+			],
+			[
+				"machine",
+				"jai\\modules\\Machine_X64.jai"
+			],
+			[
+				"md.h",
+				"mountain\\modules\\MetaDesk\\md.h"
+			],
+			[
+				"spall.c",
+				"mountain\\modules\\Spall\\spall.c"
+			],
+			[
+				"metadesk modul",
+				"mountain\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"spall modu",
+				"mountain\\modules\\Spall\\module.jai"
+			],
+			[
+				"generate.",
+				"mountain\\sauce\\arcane\\res\\generate.mdesk"
+			],
+			[
+				"random",
+				"jai\\modules\\Random.jai"
+			],
+			[
+				"input mod",
+				"jai\\modules\\Input\\module.jai"
+			],
+			[
+				"gitat",
+				"mountain\\.gitattributes"
+			],
+			[
+				"md help",
+				"mountain\\sauce\\metadesk_helpers.jai"
+			],
+			[
+				"md module",
+				"mountain\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"grav",
+				"mountain\\sauce\\arcane\\graveyard.jai"
+			],
+			[
+				"rec",
+				"mountain\\sauce\\recycle.jai"
+			],
+			[
+				"generate.mde",
+				"mountain\\sauce\\arcane\\res\\generate.mdesk"
+			],
+			[
+				"array mod",
+				"jai\\modules\\Basic\\Array.jai"
+			],
+			[
+				"res mdes",
+				"mountain\\sauce\\arcane\\res\\res.mdesk"
+			],
+			[
+				"readme",
+				"mountain\\readme.md"
+			],
+			[
+				"resmd",
+				"jaitime\\arcane\\res\\res.mdesk"
+			],
+			[
+				"con",
+				"jaitime\\arcane\\config.jai"
+			],
+			[
+				"giti",
+				"jaitime\\.gitignore"
+			],
+			[
+				"shader",
+				"jaitime\\arcane\\res\\shaders\\shader.hlsl"
+			],
+			[
+				"md",
+				"jaitime\\modules\\MetaDesk\\md.h"
+			],
+			[
+				"colour",
+				"jaitime\\modules\\Sokol\\c\\sokol\\util\\sokol_color.h"
+			],
+			[
+				"color mod",
+				"jaitime\\modules\\Sokol\\c\\sokol\\util\\sokol_color.h"
+			],
+			[
+				"loop",
+				"jai\\how_to\\019_looping.jai"
+			],
+			[
+				"random ",
+				"jai\\modules\\Random.jai"
+			],
+			[
+				"basic mod",
+				"jai\\modules\\Basic\\module.jai"
+			],
+			[
+				"ignore",
+				"jaitime\\.gitignore"
+			],
+			[
+				"md.c",
+				"jaitime\\modules\\MetaDesk\\md.c"
+			],
+			[
+				"polym",
+				"jai\\how_to\\120_polymorphic_structs.jai"
+			],
+			[
+				"forexp",
+				"jai\\how_to\\730_for_expansions.jai"
+			],
+			[
+				"math module",
+				"jai\\modules\\Math\\module.jai"
+			],
+			[
+				"string module",
+				"jai\\modules\\Basic\\Simple_String.jai"
+			],
+			[
+				"modulemdesk",
+				"jaitime\\modules\\MetaDesk\\module.jai"
+			],
+			[
+				"string mod",
+				"jai\\modules\\String\\module.jai"
+			],
+			[
+				"hashtablete",
+				"jai\\examples\\hash_table_test.jai"
+			],
+			[
+				"hash",
+				"jai\\modules\\Hash.jai"
+			],
+			[
+				"lin",
+				"jaitime\\arcane\\linked.jai"
+			],
+			[
+				"link",
+				"jaitime\\arcane\\linked.jai"
+			],
+			[
+				"main",
+				"jaitime\\arcane\\main.jai"
+			],
+			[
+				"windows",
+				"jaitime\\modules\\windows_extra.jai"
+			],
+			[
+				"window",
+				"jai-beta\\modules\\Windows.jai"
+			],
+			[
+				"windows ",
+				"jai-beta\\modules\\Windows.jai"
+			],
+			[
+				"window ",
+				"jaitime\\modules\\Windows.jai"
+			],
+			[
+				"basic modu",
+				"jai-beta\\modules\\Basic\\module.jai"
+			],
+			[
+				"math mod",
+				"jai-beta\\modules\\Math\\module.jai"
+			],
+			[
+				"rend",
+				"jaitime\\arcane\\render.jai"
+			],
+			[
+				"strings",
+				"jaitime\\arcane\\.build\\.added_strings_w2.jai"
+			],
+			[
+				"cephe",
+				"jai-beta\\modules\\Math\\cephes.jai"
+			],
+			[
+				"util",
+				"jaitime\\davis\\util.jai"
+			],
+			[
+				"math modul",
+				"jai-beta\\modules\\Math\\module.jai"
+			],
+			[
+				"math",
+				"jai-beta\\modules\\Sloppy_Math.jai"
+			],
+			[
+				"re",
+				"jaitime\\recycle.jai"
+			],
+			[
+				"string",
+				"jai-beta\\how_to\\005_strings.jai"
+			],
+			[
+				"string jai",
+				"jai-beta\\modules\\String\\module.jai"
+			],
+			[
+				"string ",
+				"jai-beta\\modules\\Basic\\Simple_String.jai"
+			],
+			[
+				"rle",
+				"jai-beta\\modules\\Relative_Pointers.jai"
+			],
+			[
+				"jai",
+				"C:\\Users\\randy\\AppData\\Roaming\\Sublime Text\\Packages\\User\\JAI.sublime-build"
+			],
+			[
+				"entit",
+				"jaitime\\arcane\\entity.jai"
+			],
+			[
+				"im",
+				"jaitime\\imui.jai"
+			],
+			[
+				"que",
+				"arcane\\quest.jai"
+			],
+			[
+				"mod",
+				"jaitime\\modules\\Simp\\module.jai"
+			],
+			[
+				"module",
+				"jaitime\\modules\\Simp\\module.jai"
+			],
+			[
+				"ahk",
+				"C:\\rando\\ahk.ahk"
+			],
+			[
+				"stringmo",
+				"package\\modules\\String\\module.jai"
+			],
+			[
+				"basic module",
+				"jaitime\\modules\\Basic\\module.jai"
+			],
+			[
+				"are",
+				"jaitime\\arcane\\arena.jai"
+			],
+			[
+				"for exp",
+				"package\\how_to\\730_for_expansions.jai"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 420.0,
+		"last_filter": "selectedst",
+		"selected_items":
+		[
+			[
+				"selectedst",
+				"selected_structure"
+			],
+			[
+				"selected structure",
+				"selected_structure"
+			],
+			[
+				"init rend",
+				"render_init"
+			],
+			[
+				"init render",
+				"init_render"
+			],
+			[
+				"",
+				"Y"
+			],
+			[
+				"metadata",
+				"MetaDataInit"
+			]
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

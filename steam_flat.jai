@@ -1,3 +1,7 @@
+//bool SteamGameServer_Init( uint32 unIP, uint16 usGamePort, uint16 usQueryPort, EServerMode eServerMode, const char *pchVersionString );
+SteamGameServer_Init :: (unIP: u16, usGamePort: u16, usQueryPort: u16, eServerMode: EServerMode, pchVersionString: *u8) -> bool #foreign steam "SteamInternal_GameServer_Init";
+
+
 // Direct, unadulterated flat wrapper of the Steamworks SDK.
 
 // SteamAPI_Init must be called before using any other API functions. If it fails, an
