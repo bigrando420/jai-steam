@@ -1,3 +1,56 @@
+
+
+/*
+SteamGameServerNetworkingSockets :: () -> *ISteamNetworkingSockets #foreign steam "SteamAPI_SteamGameServerNetworkingSockets_SteamAPI_v009";
+
+// ISteamGameServer
+SteamGameServer :: () -> *ISteamGameServer #foreign steam "SteamAPI_SteamGameServer_v013";
+SetProduct :: (self: *ISteamGameServer, pszProduct: *char) #foreign steam "SteamAPI_ISteamGameServer_SetProduct";
+SetGameDescription :: (self: *ISteamGameServer, pszGameDescription: *char) #foreign steam "SteamAPI_ISteamGameServer_SetGameDescription";
+SetModDir :: (self: *ISteamGameServer, pszModDir: *char) #foreign steam "SteamAPI_ISteamGameServer_SetModDir";
+SetDedicatedServer :: (self: *ISteamGameServer, bDedicated: bool) #foreign steam "SteamAPI_ISteamGameServer_SetDedicatedServer";
+LogOn :: (self: *ISteamGameServer, pszToken: *char) #foreign steam "SteamAPI_ISteamGameServer_LogOn";
+LogOnAnonymous :: (self: *ISteamGameServer) #foreign steam "SteamAPI_ISteamGameServer_LogOnAnonymous";
+LogOff :: (self: *ISteamGameServer) #foreign steam "SteamAPI_ISteamGameServer_LogOff";
+BLoggedOn :: (self: *ISteamGameServer) -> bool #foreign steam "SteamAPI_ISteamGameServer_BLoggedOn";
+BSecure :: (self: *ISteamGameServer) -> bool #foreign steam "SteamAPI_ISteamGameServer_BSecure";
+GetSteamID :: (self: *ISteamGameServer) -> uint64_steamid #foreign steam "SteamAPI_ISteamGameServer_GetSteamID";
+WasRestartRequested :: (self: *ISteamGameServer) -> bool #foreign steam "SteamAPI_ISteamGameServer_WasRestartRequested";
+SetMaxPlayerCount :: (self: *ISteamGameServer, cPlayersMax: s32) #foreign steam "SteamAPI_ISteamGameServer_SetMaxPlayerCount";
+SetBotPlayerCount :: (self: *ISteamGameServer, cBotplayers: s32) #foreign steam "SteamAPI_ISteamGameServer_SetBotPlayerCount";
+SetServerName :: (self: *ISteamGameServer, pszServerName: *char) #foreign steam "SteamAPI_ISteamGameServer_SetServerName";
+SetMapName :: (self: *ISteamGameServer, pszMapName: *char) #foreign steam "SteamAPI_ISteamGameServer_SetMapName";
+SetPasswordProtected :: (self: *ISteamGameServer, bPasswordProtected: bool) #foreign steam "SteamAPI_ISteamGameServer_SetPasswordProtected";
+SetSpectatorPort :: (self: *ISteamGameServer, unSpectatorPort: uint16) #foreign steam "SteamAPI_ISteamGameServer_SetSpectatorPort";
+SetSpectatorServerName :: (self: *ISteamGameServer, pszSpectatorServerName: *char) #foreign steam "SteamAPI_ISteamGameServer_SetSpectatorServerName";
+ClearAllKeyValues :: (self: *ISteamGameServer) #foreign steam "SteamAPI_ISteamGameServer_ClearAllKeyValues";
+SetKeyValue :: (self: *ISteamGameServer, pKey: *char, pValue: *char) #foreign steam "SteamAPI_ISteamGameServer_SetKeyValue";
+SetGameTags :: (self: *ISteamGameServer, pchGameTags: *char) #foreign steam "SteamAPI_ISteamGameServer_SetGameTags";
+SetGameData :: (self: *ISteamGameServer, pchGameData: *char) #foreign steam "SteamAPI_ISteamGameServer_SetGameData";
+SetRegion :: (self: *ISteamGameServer, pszRegion: *char) #foreign steam "SteamAPI_ISteamGameServer_SetRegion";
+SendUserConnectAndAuthenticate :: (self: *ISteamGameServer, unIPClient: uint32, pvAuthBlob: *void, cubAuthBlobSize: uint32, pSteamIDUser: *CSteamID) -> bool #foreign steam "SteamAPI_ISteamGameServer_SendUserConnectAndAuthenticate";
+CreateUnauthenticatedUserConnection :: (self: *ISteamGameServer) -> uint64_steamid #foreign steam "SteamAPI_ISteamGameServer_CreateUnauthenticatedUserConnection";
+SendUserDisconnect :: (self: *ISteamGameServer, steamIDUser: uint64_steamid) #foreign steam "SteamAPI_ISteamGameServer_SendUserDisconnect";
+BUpdateUserData :: (self: *ISteamGameServer, steamIDUser: uint64_steamid, pchPlayerName: *char, uScore: uint32) -> bool #foreign steam "SteamAPI_ISteamGameServer_BUpdateUserData";
+GetAuthSessionTicket :: (self: *ISteamGameServer, pTicket: *void, cbMaxTicket: s32, pcbTicket: *uint32) -> HAuthTicket #foreign steam "SteamAPI_ISteamGameServer_GetAuthSessionTicket";
+BeginAuthSession :: (self: *ISteamGameServer, pAuthTicket: *void, cbAuthTicket: s32, steamID: uint64_steamid) -> EBeginAuthSessionResult #foreign steam "SteamAPI_ISteamGameServer_BeginAuthSession";
+EndAuthSession :: (self: *ISteamGameServer, steamID: uint64_steamid) #foreign steam "SteamAPI_ISteamGameServer_EndAuthSession";
+CancelAuthTicket :: (self: *ISteamGameServer, hAuthTicket: HAuthTicket) #foreign steam "SteamAPI_ISteamGameServer_CancelAuthTicket";
+UserHasLicenseForApp :: (self: *ISteamGameServer, steamID: uint64_steamid, appID: AppId_t) -> EUserHasLicenseForAppResult #foreign steam "SteamAPI_ISteamGameServer_UserHasLicenseForApp";
+RequestUserGroupStatus :: (self: *ISteamGameServer, steamIDUser: uint64_steamid, steamIDGroup: uint64_steamid) -> bool #foreign steam "SteamAPI_ISteamGameServer_RequestUserGroupStatus";
+GetGameplayStats :: (self: *ISteamGameServer) #foreign steam "SteamAPI_ISteamGameServer_GetGameplayStats";
+GetServerReputation :: (self: *ISteamGameServer) -> SteamAPICall_t #must #foreign steam "SteamAPI_ISteamGameServer_GetServerReputation";
+GetPublicIP :: (self: *ISteamGameServer) -> SteamIPAddress_t #foreign steam "SteamAPI_ISteamGameServer_GetPublicIP";
+HandleIncomingPacket :: (self: *ISteamGameServer, pData: *void, cbData: s32, srcIP: uint32, srcPort: uint16) -> bool #foreign steam "SteamAPI_ISteamGameServer_HandleIncomingPacket";
+GetNextOutgoingPacket :: (self: *ISteamGameServer, pOut: *void, cbMaxOut: s32, pNetAdr: *uint32, pPort: *uint16) -> s32 #foreign steam "SteamAPI_ISteamGameServer_GetNextOutgoingPacket";
+EnableHeartbeats :: (self: *ISteamGameServer, bActive: bool) #foreign steam "SteamAPI_ISteamGameServer_EnableHeartbeats";
+SetHeartbeatInterval :: (self: *ISteamGameServer, iHeartbeatInterval: s32) #foreign steam "SteamAPI_ISteamGameServer_SetHeartbeatInterval";
+ForceHeartbeat :: (self: *ISteamGameServer) #foreign steam "SteamAPI_ISteamGameServer_ForceHeartbeat";
+AssociateWithClan :: (self: *ISteamGameServer, steamIDClan: uint64_steamid) -> SteamAPICall_t #must #foreign steam "SteamAPI_ISteamGameServer_AssociateWithClan";
+ComputeNewPlayerCompatibility :: (self: *ISteamGameServer, steamIDNewPlayer: uint64_steamid) -> SteamAPICall_t #must #foreign steam "SteamAPI_ISteamGameServer_ComputeNewPlayerCompatibility";
+*/
+
+
 // Standard Jai wrapper of `Steamworks SDK`
 //
 // Handles a lot of book-keeping for you; if you want full control then set the
